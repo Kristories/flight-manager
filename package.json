@@ -2,7 +2,7 @@
   "name": "flight-manager",
   "version": "0.0.1",
   "description": "Browse all the world's airports & airlines",
-  "homepage": "",
+  "repository": "Kristories/flight-manager",
   "author": {
     "name": "Wahyu Kristianto",
     "email": "w.kristories@gmail.com"
@@ -17,6 +17,13 @@
     "icao",
     "code"
   ],
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.0",
+    "camo": "^0.12.3",
+    "nedb": "^1.8.0",
+    "underscore": "^1.8.3"
+  },
   "devDependencies": {
     "coveralls": "^2.13.1",
     "eslint": "^4.1.0",
@@ -72,15 +79,7 @@
       "prettier"
     ]
   },
-  "repository": "Kristories/flight-manager",
   "jest": {
     "testEnvironment": "node"
-  },
-  "license": "MIT",
-  "dependencies": {
-    "async": "^2.6.0",
-    "camo": "^0.12.3",
-    "nedb": "^1.8.0",
-    "underscore": "^1.8.3"
   }
 }

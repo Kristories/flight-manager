@@ -1,0 +1,246 @@
+{"_id":"AD_AND","name":"Andorra","codeIsoA2":"AD","codeIsoA3":"AND","codeIsoNumber":"020"}
+{"_id":"AE_ARE","name":"United Arab Emirates","codeIsoA2":"AE","codeIsoA3":"ARE","codeIsoNumber":"784"}
+{"_id":"AF_AFG","name":"Afghanistan","codeIsoA2":"AF","codeIsoA3":"AFG","codeIsoNumber":"004"}
+{"_id":"AG_ATG","name":"Antigua and Barbuda","codeIsoA2":"AG","codeIsoA3":"ATG","codeIsoNumber":"028"}
+{"_id":"AI_AIA","name":"Anguilla","codeIsoA2":"AI","codeIsoA3":"AIA","codeIsoNumber":"660"}
+{"_id":"AL_ALB","name":"Albania","codeIsoA2":"AL","codeIsoA3":"ALB","codeIsoNumber":"008"}
+{"_id":"AM_ARM","name":"Armenia","codeIsoA2":"AM","codeIsoA3":"ARM","codeIsoNumber":"051"}
+{"_id":"AN_ANT","name":"Netherlands Antilles","codeIsoA2":"AN","codeIsoA3":"ANT","codeIsoNumber":"530"}
+{"_id":"AO_AGO","name":"Angola","codeIsoA2":"AO","codeIsoA3":"AGO","codeIsoNumber":"024"}
+{"_id":"AQ_ATA","name":"Antarctica","codeIsoA2":"AQ","codeIsoA3":"ATA","codeIsoNumber":"010"}
+{"_id":"AR_ARG","name":"Argentina","codeIsoA2":"AR","codeIsoA3":"ARG","codeIsoNumber":"032"}
+{"_id":"AS_ASM","name":"American Samoa","codeIsoA2":"AS","codeIsoA3":"ASM","codeIsoNumber":"016"}
+{"_id":"AT_AUT","name":"Austria","codeIsoA2":"AT","codeIsoA3":"AUT","codeIsoNumber":"040"}
+{"_id":"AU_AUS","name":"Australia","codeIsoA2":"AU","codeIsoA3":"AUS","codeIsoNumber":"036"}
+{"_id":"AW_ABW","name":"Aruba","codeIsoA2":"AW","codeIsoA3":"ABW","codeIsoNumber":"533"}
+{"_id":"AX_ALA","name":"Åland","codeIsoA2":"AX","codeIsoA3":"ALA","codeIsoNumber":"248"}
+{"_id":"AZ_AZE","name":"Azerbaijan","codeIsoA2":"AZ","codeIsoA3":"AZE","codeIsoNumber":"031"}
+{"_id":"BA_BIH","name":"Bosnia and Herzegovina","codeIsoA2":"BA","codeIsoA3":"BIH","codeIsoNumber":"070"}
+{"_id":"BB_BRB","name":"Barbados","codeIsoA2":"BB","codeIsoA3":"BRB","codeIsoNumber":"052"}
+{"_id":"BD_BGD","name":"Bangladesh","codeIsoA2":"BD","codeIsoA3":"BGD","codeIsoNumber":"050"}
+{"_id":"BE_BEL","name":"Belgium","codeIsoA2":"BE","codeIsoA3":"BEL","codeIsoNumber":"056"}
+{"_id":"BF_BFA","name":"Burkina Faso","codeIsoA2":"BF","codeIsoA3":"BFA","codeIsoNumber":"854"}
+{"_id":"BG_BGR","name":"Bulgaria","codeIsoA2":"BG","codeIsoA3":"BGR","codeIsoNumber":"100"}
+{"_id":"BH_BHR","name":"Bahrain","codeIsoA2":"BH","codeIsoA3":"BHR","codeIsoNumber":"048"}
+{"_id":"BI_BDI","name":"Burundi","codeIsoA2":"BI","codeIsoA3":"BDI","codeIsoNumber":"108"}
+{"_id":"BJ_BEN","name":"Benin","codeIsoA2":"BJ","codeIsoA3":"BEN","codeIsoNumber":"204"}
+{"_id":"BL_BLM","name":"Saint Barthélemy","codeIsoA2":"BL","codeIsoA3":"BLM","codeIsoNumber":"652"}
+{"_id":"BM_BMU","name":"Bermuda","codeIsoA2":"BM","codeIsoA3":"BMU","codeIsoNumber":"060"}
+{"_id":"BN_BRN","name":"Brunei Darussalam","codeIsoA2":"BN","codeIsoA3":"BRN","codeIsoNumber":"096"}
+{"_id":"BO_BOL","name":"Bolivia","codeIsoA2":"BO","codeIsoA3":"BOL","codeIsoNumber":"068"}
+{"_id":"BR_BRA","name":"Brazil","codeIsoA2":"BR","codeIsoA3":"BRA","codeIsoNumber":"076"}
+{"_id":"BS_BHS","name":"Bahamas","codeIsoA2":"BS","codeIsoA3":"BHS","codeIsoNumber":"044"}
+{"_id":"BT_BTN","name":"Bhutan","codeIsoA2":"BT","codeIsoA3":"BTN","codeIsoNumber":"064"}
+{"_id":"BV_BVT","name":"Bouvet Island","codeIsoA2":"BV","codeIsoA3":"BVT","codeIsoNumber":"074"}
+{"_id":"BW_BWA","name":"Botswana","codeIsoA2":"BW","codeIsoA3":"BWA","codeIsoNumber":"072"}
+{"_id":"BY_BLR","name":"Belarus","codeIsoA2":"BY","codeIsoA3":"BLR","codeIsoNumber":"112"}
+{"_id":"BZ_BLZ","name":"Belize","codeIsoA2":"BZ","codeIsoA3":"BLZ","codeIsoNumber":"084"}
+{"_id":"CA_CAN","name":"Canada","codeIsoA2":"CA","codeIsoA3":"CAN","codeIsoNumber":"124"}
+{"_id":"CC_CCK","name":"Cocos (Keeling) Islands","codeIsoA2":"CC","codeIsoA3":"CCK","codeIsoNumber":"166"}
+{"_id":"CD_COD","name":"Congo (Kinshasa)","codeIsoA2":"CD","codeIsoA3":"COD","codeIsoNumber":"180"}
+{"_id":"CF_CAF","name":"Central African Republic","codeIsoA2":"CF","codeIsoA3":"CAF","codeIsoNumber":"140"}
+{"_id":"CG_COG","name":"Congo (Brazzaville)","codeIsoA2":"CG","codeIsoA3":"COG","codeIsoNumber":"178"}
+{"_id":"CH_CHE","name":"Switzerland","codeIsoA2":"CH","codeIsoA3":"CHE","codeIsoNumber":"756"}
+{"_id":"CI_CIV","name":"Côte d'Ivoire","codeIsoA2":"CI","codeIsoA3":"CIV","codeIsoNumber":"384"}
+{"_id":"CK_COK","name":"Cook Islands","codeIsoA2":"CK","codeIsoA3":"COK","codeIsoNumber":"184"}
+{"_id":"CL_CHL","name":"Chile","codeIsoA2":"CL","codeIsoA3":"CHL","codeIsoNumber":"152"}
+{"_id":"CM_CMR","name":"Cameroon","codeIsoA2":"CM","codeIsoA3":"CMR","codeIsoNumber":"120"}
+{"_id":"CN_CHN","name":"China","codeIsoA2":"CN","codeIsoA3":"CHN","codeIsoNumber":"156"}
+{"_id":"CO_COL","name":"Colombia","codeIsoA2":"CO","codeIsoA3":"COL","codeIsoNumber":"170"}
+{"_id":"CR_CRI","name":"Costa Rica","codeIsoA2":"CR","codeIsoA3":"CRI","codeIsoNumber":"188"}
+{"_id":"CU_CUB","name":"Cuba","codeIsoA2":"CU","codeIsoA3":"CUB","codeIsoNumber":"192"}
+{"_id":"CV_CPV","name":"Cape Verde","codeIsoA2":"CV","codeIsoA3":"CPV","codeIsoNumber":"132"}
+{"_id":"CX_CXR","name":"Christmas Island","codeIsoA2":"CX","codeIsoA3":"CXR","codeIsoNumber":"162"}
+{"_id":"CY_CYP","name":"Cyprus","codeIsoA2":"CY","codeIsoA3":"CYP","codeIsoNumber":"196"}
+{"_id":"CZ_CZE","name":"Czech Republic","codeIsoA2":"CZ","codeIsoA3":"CZE","codeIsoNumber":"203"}
+{"_id":"DE_DEU","name":"Germany","codeIsoA2":"DE","codeIsoA3":"DEU","codeIsoNumber":"276"}
+{"_id":"DJ_DJI","name":"Djibouti","codeIsoA2":"DJ","codeIsoA3":"DJI","codeIsoNumber":"262"}
+{"_id":"DK_DNK","name":"Denmark","codeIsoA2":"DK","codeIsoA3":"DNK","codeIsoNumber":"208"}
+{"_id":"DM_DMA","name":"Dominica","codeIsoA2":"DM","codeIsoA3":"DMA","codeIsoNumber":"212"}
+{"_id":"DO_DOM","name":"Dominican Republic","codeIsoA2":"DO","codeIsoA3":"DOM","codeIsoNumber":"214"}
+{"_id":"DZ_DZA","name":"Algeria","codeIsoA2":"DZ","codeIsoA3":"DZA","codeIsoNumber":"012"}
+{"_id":"EC_ECU","name":"Ecuador","codeIsoA2":"EC","codeIsoA3":"ECU","codeIsoNumber":"218"}
+{"_id":"EE_EST","name":"Estonia","codeIsoA2":"EE","codeIsoA3":"EST","codeIsoNumber":"233"}
+{"_id":"EG_EGY","name":"Egypt","codeIsoA2":"EG","codeIsoA3":"EGY","codeIsoNumber":"818"}
+{"_id":"EH_ESH","name":"Western Sahara","codeIsoA2":"EH","codeIsoA3":"ESH","codeIsoNumber":"732"}
+{"_id":"ER_ERI","name":"Eritrea","codeIsoA2":"ER","codeIsoA3":"ERI","codeIsoNumber":"232"}
+{"_id":"ES_ESP","name":"Spain","codeIsoA2":"ES","codeIsoA3":"ESP","codeIsoNumber":"724"}
+{"_id":"ET_ETH","name":"Ethiopia","codeIsoA2":"ET","codeIsoA3":"ETH","codeIsoNumber":"231"}
+{"_id":"FI_FIN","name":"Finland","codeIsoA2":"FI","codeIsoA3":"FIN","codeIsoNumber":"246"}
+{"_id":"FJ_FJI","name":"Fiji","codeIsoA2":"FJ","codeIsoA3":"FJI","codeIsoNumber":"242"}
+{"_id":"FK_FLK","name":"Falkland Islands","codeIsoA2":"FK","codeIsoA3":"FLK","codeIsoNumber":"238"}
+{"_id":"FM_FSM","name":"Micronesia","codeIsoA2":"FM","codeIsoA3":"FSM","codeIsoNumber":"583"}
+{"_id":"FO_FRO","name":"Faroe Islands","codeIsoA2":"FO","codeIsoA3":"FRO","codeIsoNumber":"234"}
+{"_id":"FR_FRA","name":"France","codeIsoA2":"FR","codeIsoA3":"FRA","codeIsoNumber":"250"}
+{"_id":"GA_GAB","name":"Gabon","codeIsoA2":"GA","codeIsoA3":"GAB","codeIsoNumber":"266"}
+{"_id":"GB_GBR","name":"United Kingdom","codeIsoA2":"GB","codeIsoA3":"GBR","codeIsoNumber":"826"}
+{"_id":"GD_GRD","name":"Grenada","codeIsoA2":"GD","codeIsoA3":"GRD","codeIsoNumber":"308"}
+{"_id":"GE_GEO","name":"Georgia","codeIsoA2":"GE","codeIsoA3":"GEO","codeIsoNumber":"268"}
+{"_id":"GF_GUF","name":"French Guiana","codeIsoA2":"GF","codeIsoA3":"GUF","codeIsoNumber":"254"}
+{"_id":"GG_GGY","name":"Guernsey","codeIsoA2":"GG","codeIsoA3":"GGY","codeIsoNumber":"831"}
+{"_id":"GH_GHA","name":"Ghana","codeIsoA2":"GH","codeIsoA3":"GHA","codeIsoNumber":"288"}
+{"_id":"GI_GIB","name":"Gibraltar","codeIsoA2":"GI","codeIsoA3":"GIB","codeIsoNumber":"292"}
+{"_id":"GL_GRL","name":"Greenland","codeIsoA2":"GL","codeIsoA3":"GRL","codeIsoNumber":"304"}
+{"_id":"GM_GMB","name":"Gambia","codeIsoA2":"GM","codeIsoA3":"GMB","codeIsoNumber":"270"}
+{"_id":"GN_GIN","name":"Guinea","codeIsoA2":"GN","codeIsoA3":"GIN","codeIsoNumber":"324"}
+{"_id":"GP_GLP","name":"Guadeloupe","codeIsoA2":"GP","codeIsoA3":"GLP","codeIsoNumber":"312"}
+{"_id":"GQ_GNQ","name":"Equatorial Guinea","codeIsoA2":"GQ","codeIsoA3":"GNQ","codeIsoNumber":"226"}
+{"_id":"GR_GRC","name":"Greece","codeIsoA2":"GR","codeIsoA3":"GRC","codeIsoNumber":"300"}
+{"_id":"GS_SGS","name":"South Georgia and South Sandwich Islands","codeIsoA2":"GS","codeIsoA3":"SGS","codeIsoNumber":"239"}
+{"_id":"GT_GTM","name":"Guatemala","codeIsoA2":"GT","codeIsoA3":"GTM","codeIsoNumber":"320"}
+{"_id":"GU_GUM","name":"Guam","codeIsoA2":"GU","codeIsoA3":"GUM","codeIsoNumber":"316"}
+{"_id":"GW_GNB","name":"Guinea-Bissau","codeIsoA2":"GW","codeIsoA3":"GNB","codeIsoNumber":"624"}
+{"_id":"GY_GUY","name":"Guyana","codeIsoA2":"GY","codeIsoA3":"GUY","codeIsoNumber":"328"}
+{"_id":"HK_HKG","name":"Hong Kong","codeIsoA2":"HK","codeIsoA3":"HKG","codeIsoNumber":"344"}
+{"_id":"HM_HMD","name":"Heard and McDonald Islands","codeIsoA2":"HM","codeIsoA3":"HMD","codeIsoNumber":"334"}
+{"_id":"HN_HND","name":"Honduras","codeIsoA2":"HN","codeIsoA3":"HND","codeIsoNumber":"340"}
+{"_id":"HR_HRV","name":"Croatia","codeIsoA2":"HR","codeIsoA3":"HRV","codeIsoNumber":"191"}
+{"_id":"HT_HTI","name":"Haiti","codeIsoA2":"HT","codeIsoA3":"HTI","codeIsoNumber":"332"}
+{"_id":"HU_HUN","name":"Hungary","codeIsoA2":"HU","codeIsoA3":"HUN","codeIsoNumber":"348"}
+{"_id":"ID_IDN","name":"Indonesia","codeIsoA2":"ID","codeIsoA3":"IDN","codeIsoNumber":"360"}
+{"_id":"IE_IRL","name":"Ireland","codeIsoA2":"IE","codeIsoA3":"IRL","codeIsoNumber":"372"}
+{"_id":"IL_ISR","name":"Israel","codeIsoA2":"IL","codeIsoA3":"ISR","codeIsoNumber":"376"}
+{"_id":"IM_IMN","name":"Isle of Man","codeIsoA2":"IM","codeIsoA3":"IMN","codeIsoNumber":"833"}
+{"_id":"IN_IND","name":"India","codeIsoA2":"IN","codeIsoA3":"IND","codeIsoNumber":"356"}
+{"_id":"IO_IOT","name":"British Indian Ocean Territory","codeIsoA2":"IO","codeIsoA3":"IOT","codeIsoNumber":"086"}
+{"_id":"IQ_IRQ","name":"Iraq","codeIsoA2":"IQ","codeIsoA3":"IRQ","codeIsoNumber":"368"}
+{"_id":"IR_IRN","name":"Iran","codeIsoA2":"IR","codeIsoA3":"IRN","codeIsoNumber":"364"}
+{"_id":"IS_ISL","name":"Iceland","codeIsoA2":"IS","codeIsoA3":"ISL","codeIsoNumber":"352"}
+{"_id":"IT_ITA","name":"Italy","codeIsoA2":"IT","codeIsoA3":"ITA","codeIsoNumber":"380"}
+{"_id":"JE_JEY","name":"Jersey","codeIsoA2":"JE","codeIsoA3":"JEY","codeIsoNumber":"832"}
+{"_id":"JM_JAM","name":"Jamaica","codeIsoA2":"JM","codeIsoA3":"JAM","codeIsoNumber":"388"}
+{"_id":"JO_JOR","name":"Jordan","codeIsoA2":"JO","codeIsoA3":"JOR","codeIsoNumber":"400"}
+{"_id":"JP_JPN","name":"Japan","codeIsoA2":"JP","codeIsoA3":"JPN","codeIsoNumber":"392"}
+{"_id":"KE_KEN","name":"Kenya","codeIsoA2":"KE","codeIsoA3":"KEN","codeIsoNumber":"404"}
+{"_id":"KG_KGZ","name":"Kyrgyzstan","codeIsoA2":"KG","codeIsoA3":"KGZ","codeIsoNumber":"417"}
+{"_id":"KH_KHM","name":"Cambodia","codeIsoA2":"KH","codeIsoA3":"KHM","codeIsoNumber":"116"}
+{"_id":"KI_KIR","name":"Kiribati","codeIsoA2":"KI","codeIsoA3":"KIR","codeIsoNumber":"296"}
+{"_id":"KM_COM","name":"Comoros","codeIsoA2":"KM","codeIsoA3":"COM","codeIsoNumber":"174"}
+{"_id":"KN_KNA","name":"Saint Kitts and Nevis","codeIsoA2":"KN","codeIsoA3":"KNA","codeIsoNumber":"659"}
+{"_id":"KP_PRK","name":"Korea, North","codeIsoA2":"KP","codeIsoA3":"PRK","codeIsoNumber":"408"}
+{"_id":"KR_KOR","name":"Korea, South","codeIsoA2":"KR","codeIsoA3":"KOR","codeIsoNumber":"410"}
+{"_id":"KW_KWT","name":"Kuwait","codeIsoA2":"KW","codeIsoA3":"KWT","codeIsoNumber":"414"}
+{"_id":"KY_CYM","name":"Cayman Islands","codeIsoA2":"KY","codeIsoA3":"CYM","codeIsoNumber":"136"}
+{"_id":"KZ_KAZ","name":"Kazakhstan","codeIsoA2":"KZ","codeIsoA3":"KAZ","codeIsoNumber":"398"}
+{"_id":"LA_LAO","name":"Laos","codeIsoA2":"LA","codeIsoA3":"LAO","codeIsoNumber":"418"}
+{"_id":"LB_LBN","name":"Lebanon","codeIsoA2":"LB","codeIsoA3":"LBN","codeIsoNumber":"422"}
+{"_id":"LC_LCA","name":"Saint Lucia","codeIsoA2":"LC","codeIsoA3":"LCA","codeIsoNumber":"662"}
+{"_id":"LI_LIE","name":"Liechtenstein","codeIsoA2":"LI","codeIsoA3":"LIE","codeIsoNumber":"438"}
+{"_id":"LK_LKA","name":"Sri Lanka","codeIsoA2":"LK","codeIsoA3":"LKA","codeIsoNumber":"144"}
+{"_id":"LR_LBR","name":"Liberia","codeIsoA2":"LR","codeIsoA3":"LBR","codeIsoNumber":"430"}
+{"_id":"LS_LSO","name":"Lesotho","codeIsoA2":"LS","codeIsoA3":"LSO","codeIsoNumber":"426"}
+{"_id":"LT_LTU","name":"Lithuania","codeIsoA2":"LT","codeIsoA3":"LTU","codeIsoNumber":"440"}
+{"_id":"LU_LUX","name":"Luxembourg","codeIsoA2":"LU","codeIsoA3":"LUX","codeIsoNumber":"442"}
+{"_id":"LV_LVA","name":"Latvia","codeIsoA2":"LV","codeIsoA3":"LVA","codeIsoNumber":"428"}
+{"_id":"LY_LBY","name":"Libya","codeIsoA2":"LY","codeIsoA3":"LBY","codeIsoNumber":"434"}
+{"_id":"MA_MAR","name":"Morocco","codeIsoA2":"MA","codeIsoA3":"MAR","codeIsoNumber":"504"}
+{"_id":"MC_MCO","name":"Monaco","codeIsoA2":"MC","codeIsoA3":"MCO","codeIsoNumber":"492"}
+{"_id":"MD_MDA","name":"Moldova","codeIsoA2":"MD","codeIsoA3":"MDA","codeIsoNumber":"498"}
+{"_id":"ME_MNE","name":"Montenegro","codeIsoA2":"ME","codeIsoA3":"MNE","codeIsoNumber":"499"}
+{"_id":"MF_MAF","name":"Saint Martin (French part)","codeIsoA2":"MF","codeIsoA3":"MAF","codeIsoNumber":"663"}
+{"_id":"MG_MDG","name":"Madagascar","codeIsoA2":"MG","codeIsoA3":"MDG","codeIsoNumber":"450"}
+{"_id":"MH_MHL","name":"Marshall Islands","codeIsoA2":"MH","codeIsoA3":"MHL","codeIsoNumber":"584"}
+{"_id":"MK_MKD","name":"Macedonia","codeIsoA2":"MK","codeIsoA3":"MKD","codeIsoNumber":"807"}
+{"_id":"ML_MLI","name":"Mali","codeIsoA2":"ML","codeIsoA3":"MLI","codeIsoNumber":"466"}
+{"_id":"MM_MMR","name":"Myanmar","codeIsoA2":"MM","codeIsoA3":"MMR","codeIsoNumber":"104"}
+{"_id":"MN_MNG","name":"Mongolia","codeIsoA2":"MN","codeIsoA3":"MNG","codeIsoNumber":"496"}
+{"_id":"MO_MAC","name":"Macau","codeIsoA2":"MO","codeIsoA3":"MAC","codeIsoNumber":"446"}
+{"_id":"MP_MNP","name":"Northern Mariana Islands","codeIsoA2":"MP","codeIsoA3":"MNP","codeIsoNumber":"580"}
+{"_id":"MQ_MTQ","name":"Martinique","codeIsoA2":"MQ","codeIsoA3":"MTQ","codeIsoNumber":"474"}
+{"_id":"MR_MRT","name":"Mauritania","codeIsoA2":"MR","codeIsoA3":"MRT","codeIsoNumber":"478"}
+{"_id":"MS_MSR","name":"Montserrat","codeIsoA2":"MS","codeIsoA3":"MSR","codeIsoNumber":"500"}
+{"_id":"MT_MLT","name":"Malta","codeIsoA2":"MT","codeIsoA3":"MLT","codeIsoNumber":"470"}
+{"_id":"MU_MUS","name":"Mauritius","codeIsoA2":"MU","codeIsoA3":"MUS","codeIsoNumber":"480"}
+{"_id":"MV_MDV","name":"Maldives","codeIsoA2":"MV","codeIsoA3":"MDV","codeIsoNumber":"462"}
+{"_id":"MW_MWI","name":"Malawi","codeIsoA2":"MW","codeIsoA3":"MWI","codeIsoNumber":"454"}
+{"_id":"MX_MEX","name":"Mexico","codeIsoA2":"MX","codeIsoA3":"MEX","codeIsoNumber":"484"}
+{"_id":"MY_MYS","name":"Malaysia","codeIsoA2":"MY","codeIsoA3":"MYS","codeIsoNumber":"458"}
+{"_id":"MZ_MOZ","name":"Mozambique","codeIsoA2":"MZ","codeIsoA3":"MOZ","codeIsoNumber":"508"}
+{"_id":"NA_NAM","name":"Namibia","codeIsoA2":"NA","codeIsoA3":"NAM","codeIsoNumber":"516"}
+{"_id":"NC_NCL","name":"New Caledonia","codeIsoA2":"NC","codeIsoA3":"NCL","codeIsoNumber":"540"}
+{"_id":"NE_NER","name":"Niger","codeIsoA2":"NE","codeIsoA3":"NER","codeIsoNumber":"562"}
+{"_id":"NF_NFK","name":"Norfolk Island","codeIsoA2":"NF","codeIsoA3":"NFK","codeIsoNumber":"574"}
+{"_id":"NG_NGA","name":"Nigeria","codeIsoA2":"NG","codeIsoA3":"NGA","codeIsoNumber":"566"}
+{"_id":"NI_NIC","name":"Nicaragua","codeIsoA2":"NI","codeIsoA3":"NIC","codeIsoNumber":"558"}
+{"_id":"NL_NLD","name":"Netherlands","codeIsoA2":"NL","codeIsoA3":"NLD","codeIsoNumber":"528"}
+{"_id":"NO_NOR","name":"Norway","codeIsoA2":"NO","codeIsoA3":"NOR","codeIsoNumber":"578"}
+{"_id":"NP_NPL","name":"Nepal","codeIsoA2":"NP","codeIsoA3":"NPL","codeIsoNumber":"524"}
+{"_id":"NR_NRU","name":"Nauru","codeIsoA2":"NR","codeIsoA3":"NRU","codeIsoNumber":"520"}
+{"_id":"NU_NIU","name":"Niue","codeIsoA2":"NU","codeIsoA3":"NIU","codeIsoNumber":"570"}
+{"_id":"NZ_NZL","name":"New Zealand","codeIsoA2":"NZ","codeIsoA3":"NZL","codeIsoNumber":"554"}
+{"_id":"OM_OMN","name":"Oman","codeIsoA2":"OM","codeIsoA3":"OMN","codeIsoNumber":"512"}
+{"_id":"PA_PAN","name":"Panama","codeIsoA2":"PA","codeIsoA3":"PAN","codeIsoNumber":"591"}
+{"_id":"PE_PER","name":"Peru","codeIsoA2":"PE","codeIsoA3":"PER","codeIsoNumber":"604"}
+{"_id":"PF_PYF","name":"French Polynesia","codeIsoA2":"PF","codeIsoA3":"PYF","codeIsoNumber":"258"}
+{"_id":"PG_PNG","name":"Papua New Guinea","codeIsoA2":"PG","codeIsoA3":"PNG","codeIsoNumber":"598"}
+{"_id":"PH_PHL","name":"Philippines","codeIsoA2":"PH","codeIsoA3":"PHL","codeIsoNumber":"608"}
+{"_id":"PK_PAK","name":"Pakistan","codeIsoA2":"PK","codeIsoA3":"PAK","codeIsoNumber":"586"}
+{"_id":"PL_POL","name":"Poland","codeIsoA2":"PL","codeIsoA3":"POL","codeIsoNumber":"616"}
+{"_id":"PM_SPM","name":"Saint Pierre and Miquelon","codeIsoA2":"PM","codeIsoA3":"SPM","codeIsoNumber":"666"}
+{"_id":"PN_PCN","name":"Pitcairn","codeIsoA2":"PN","codeIsoA3":"PCN","codeIsoNumber":"612"}
+{"_id":"PR_PRI","name":"Puerto Rico","codeIsoA2":"PR","codeIsoA3":"PRI","codeIsoNumber":"630"}
+{"_id":"PS_PSE","name":"Palestine","codeIsoA2":"PS","codeIsoA3":"PSE","codeIsoNumber":"275"}
+{"_id":"PT_PRT","name":"Portugal","codeIsoA2":"PT","codeIsoA3":"PRT","codeIsoNumber":"620"}
+{"_id":"PW_PLW","name":"Palau","codeIsoA2":"PW","codeIsoA3":"PLW","codeIsoNumber":"585"}
+{"_id":"PY_PRY","name":"Paraguay","codeIsoA2":"PY","codeIsoA3":"PRY","codeIsoNumber":"600"}
+{"_id":"QA_QAT","name":"Qatar","codeIsoA2":"QA","codeIsoA3":"QAT","codeIsoNumber":"634"}
+{"_id":"RE_REU","name":"Reunion","codeIsoA2":"RE","codeIsoA3":"REU","codeIsoNumber":"638"}
+{"_id":"RO_ROU","name":"Romania","codeIsoA2":"RO","codeIsoA3":"ROU","codeIsoNumber":"642"}
+{"_id":"RS_SRB","name":"Serbia","codeIsoA2":"RS","codeIsoA3":"SRB","codeIsoNumber":"688"}
+{"_id":"RU_RUS","name":"Russian Federation","codeIsoA2":"RU","codeIsoA3":"RUS","codeIsoNumber":"643"}
+{"_id":"RW_RWA","name":"Rwanda","codeIsoA2":"RW","codeIsoA3":"RWA","codeIsoNumber":"646"}
+{"_id":"SA_SAU","name":"Saudi Arabia","codeIsoA2":"SA","codeIsoA3":"SAU","codeIsoNumber":"682"}
+{"_id":"SB_SLB","name":"Solomon Islands","codeIsoA2":"SB","codeIsoA3":"SLB","codeIsoNumber":"090"}
+{"_id":"SC_SYC","name":"Seychelles","codeIsoA2":"SC","codeIsoA3":"SYC","codeIsoNumber":"690"}
+{"_id":"SD_SDN","name":"Sudan","codeIsoA2":"SD","codeIsoA3":"SDN","codeIsoNumber":"736"}
+{"_id":"SE_SWE","name":"Sweden","codeIsoA2":"SE","codeIsoA3":"SWE","codeIsoNumber":"752"}
+{"_id":"SG_SGP","name":"Singapore","codeIsoA2":"SG","codeIsoA3":"SGP","codeIsoNumber":"702"}
+{"_id":"SH_SHN","name":"Saint Helena","codeIsoA2":"SH","codeIsoA3":"SHN","codeIsoNumber":"654"}
+{"_id":"SI_SVN","name":"Slovenia","codeIsoA2":"SI","codeIsoA3":"SVN","codeIsoNumber":"705"}
+{"_id":"SJ_SJM","name":"Svalbard and Jan Mayen Islands","codeIsoA2":"SJ","codeIsoA3":"SJM","codeIsoNumber":"744"}
+{"_id":"SK_SVK","name":"Slovakia","codeIsoA2":"SK","codeIsoA3":"SVK","codeIsoNumber":"703"}
+{"_id":"SL_SLE","name":"Sierra Leone","codeIsoA2":"SL","codeIsoA3":"SLE","codeIsoNumber":"694"}
+{"_id":"SM_SMR","name":"San Marino","codeIsoA2":"SM","codeIsoA3":"SMR","codeIsoNumber":"674"}
+{"_id":"SN_SEN","name":"Senegal","codeIsoA2":"SN","codeIsoA3":"SEN","codeIsoNumber":"686"}
+{"_id":"SO_SOM","name":"Somalia","codeIsoA2":"SO","codeIsoA3":"SOM","codeIsoNumber":"706"}
+{"_id":"SR_SUR","name":"Suriname","codeIsoA2":"SR","codeIsoA3":"SUR","codeIsoNumber":"740"}
+{"_id":"ST_STP","name":"Sao Tome and Principe","codeIsoA2":"ST","codeIsoA3":"STP","codeIsoNumber":"678"}
+{"_id":"SV_SLV","name":"El Salvador","codeIsoA2":"SV","codeIsoA3":"SLV","codeIsoNumber":"222"}
+{"_id":"SY_SYR","name":"Syria","codeIsoA2":"SY","codeIsoA3":"SYR","codeIsoNumber":"760"}
+{"_id":"SZ_SWZ","name":"Swaziland","codeIsoA2":"SZ","codeIsoA3":"SWZ","codeIsoNumber":"748"}
+{"_id":"TC_TCA","name":"Turks and Caicos Islands","codeIsoA2":"TC","codeIsoA3":"TCA","codeIsoNumber":"796"}
+{"_id":"TD_TCD","name":"Chad","codeIsoA2":"TD","codeIsoA3":"TCD","codeIsoNumber":"148"}
+{"_id":"TF_ATF","name":"French Southern Lands","codeIsoA2":"TF","codeIsoA3":"ATF","codeIsoNumber":"260"}
+{"_id":"TG_TGO","name":"Togo","codeIsoA2":"TG","codeIsoA3":"TGO","codeIsoNumber":"768"}
+{"_id":"TH_THA","name":"Thailand","codeIsoA2":"TH","codeIsoA3":"THA","codeIsoNumber":"764"}
+{"_id":"TJ_TJK","name":"Tajikistan","codeIsoA2":"TJ","codeIsoA3":"TJK","codeIsoNumber":"762"}
+{"_id":"TK_TKL","name":"Tokelau","codeIsoA2":"TK","codeIsoA3":"TKL","codeIsoNumber":"772"}
+{"_id":"TL_TLS","name":"Timor-Leste","codeIsoA2":"TL","codeIsoA3":"TLS","codeIsoNumber":"626"}
+{"_id":"TM_TKM","name":"Turkmenistan","codeIsoA2":"TM","codeIsoA3":"TKM","codeIsoNumber":"795"}
+{"_id":"TN_TUN","name":"Tunisia","codeIsoA2":"TN","codeIsoA3":"TUN","codeIsoNumber":"788"}
+{"_id":"TO_TON","name":"Tonga","codeIsoA2":"TO","codeIsoA3":"TON","codeIsoNumber":"776"}
+{"_id":"TR_TUR","name":"Turkey","codeIsoA2":"TR","codeIsoA3":"TUR","codeIsoNumber":"792"}
+{"_id":"TT_TTO","name":"Trinidad and Tobago","codeIsoA2":"TT","codeIsoA3":"TTO","codeIsoNumber":"780"}
+{"_id":"TV_TUV","name":"Tuvalu","codeIsoA2":"TV","codeIsoA3":"TUV","codeIsoNumber":"798"}
+{"_id":"TW_TWN","name":"Taiwan","codeIsoA2":"TW","codeIsoA3":"TWN","codeIsoNumber":"158"}
+{"_id":"TZ_TZA","name":"Tanzania","codeIsoA2":"TZ","codeIsoA3":"TZA","codeIsoNumber":"834"}
+{"_id":"UA_UKR","name":"Ukraine","codeIsoA2":"UA","codeIsoA3":"UKR","codeIsoNumber":"804"}
+{"_id":"UG_UGA","name":"Uganda","codeIsoA2":"UG","codeIsoA3":"UGA","codeIsoNumber":"800"}
+{"_id":"UM_UMI","name":"United States Minor Outlying Islands","codeIsoA2":"UM","codeIsoA3":"UMI","codeIsoNumber":"581"}
+{"_id":"US_USA","name":"United States of America","codeIsoA2":"US","codeIsoA3":"USA","codeIsoNumber":"840"}
+{"_id":"UY_URY","name":"Uruguay","codeIsoA2":"UY","codeIsoA3":"URY","codeIsoNumber":"858"}
+{"_id":"UZ_UZB","name":"Uzbekistan","codeIsoA2":"UZ","codeIsoA3":"UZB","codeIsoNumber":"860"}
+{"_id":"VA_VAT","name":"Vatican City","codeIsoA2":"VA","codeIsoA3":"VAT","codeIsoNumber":"336"}
+{"_id":"VC_VCT","name":"Saint Vincent and the Grenadines","codeIsoA2":"VC","codeIsoA3":"VCT","codeIsoNumber":"670"}
+{"_id":"VE_VEN","name":"Venezuela","codeIsoA2":"VE","codeIsoA3":"VEN","codeIsoNumber":"862"}
+{"_id":"VG_VGB","name":"Virgin Islands, British","codeIsoA2":"VG","codeIsoA3":"VGB","codeIsoNumber":"092"}
+{"_id":"VI_VIR","name":"Virgin Islands, U.S.","codeIsoA2":"VI","codeIsoA3":"VIR","codeIsoNumber":"850"}
+{"_id":"VN_VNM","name":"Vietnam","codeIsoA2":"VN","codeIsoA3":"VNM","codeIsoNumber":"704"}
+{"_id":"VU_VUT","name":"Vanuatu","codeIsoA2":"VU","codeIsoA3":"VUT","codeIsoNumber":"548"}
+{"_id":"WF_WLF","name":"Wallis and Futuna Islands","codeIsoA2":"WF","codeIsoA3":"WLF","codeIsoNumber":"876"}
+{"_id":"WS_WSM","name":"Samoa","codeIsoA2":"WS","codeIsoA3":"WSM","codeIsoNumber":"882"}
+{"_id":"YE_YEM","name":"Yemen","codeIsoA2":"YE","codeIsoA3":"YEM","codeIsoNumber":"887"}
+{"_id":"YT_MYT","name":"Mayotte","codeIsoA2":"YT","codeIsoA3":"MYT","codeIsoNumber":"175"}
+{"_id":"ZA_ZAF","name":"South Africa","codeIsoA2":"ZA","codeIsoA3":"ZAF","codeIsoNumber":"710"}
+{"_id":"ZM_ZMB","name":"Zambia","codeIsoA2":"ZM","codeIsoA3":"ZMB","codeIsoNumber":"894"}
+{"_id":"ZW_ZWE","name":"Zimbabwe","codeIsoA2":"ZW","codeIsoA3":"ZWE","codeIsoNumber":"716"}

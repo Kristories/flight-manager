@@ -1,0 +1,1175 @@
+{"_id":"00_000","name":"AirOne Continental","iata":"00","icao":"000","country":"SK_SVK"}
+{"_id":"00_AO1","name":"AirOne Atlantic","iata":"00","icao":"AO1","country":"SK_SVK"}
+{"_id":"04_ABV","name":"Antrak Air","iata":"04","icao":"ABV","country":"GH_GHA"}
+{"_id":"07_770","name":"Samurai Airlines","iata":"07","icao":"770","country":"PK_PAK"}
+{"_id":"0A_GNT","name":"Amber Air","iata":"0A","icao":"GNT","country":"LT_LTU"}
+{"_id":"0B_JOR","name":"Blue Air","iata":"0B","icao":"JOR","country":"RO_ROU"}
+{"_id":"0D_DWT","name":"Darwin Airline","iata":"0D","icao":"DWT","country":"CH_CHE"}
+{"_id":"0J_JCS","name":"Jetclub","iata":"0J","icao":"JCS","country":"CH_CHE"}
+{"_id":"0X_CX0","name":"Copenhagen Express","iata":"0X","icao":"CX0","country":"DK_DNK"}
+{"_id":"10_CNN","name":"Canadian World","iata":"10","icao":"CNN","country":"CA_CAN"}
+{"_id":"12_N12","name":"12 North","iata":"12","icao":"N12","country":"IN_IND"}
+{"_id":"13_EAV","name":"Eastern Atlantic Virtual Airlines","iata":"13","icao":"EAV","country":"US_USA"}
+{"_id":"1A_AGT","name":"Amadeus Global Travel Distribution","iata":"1A","icao":"AGT","country":"ES_ESP"}
+{"_id":"1C_1CH","name":"OneChina","iata":"1C","icao":"1CH","country":"CN_CHN"}
+{"_id":"1F_CIF","name":"CB Airways UK ( Interliging Flights )","iata":"1F","icao":"CIF","country":"GB_GBR"}
+{"_id":"1H_HEY","name":"Hellenic Airways","iata":"1H","icao":"HEY","country":"GR_GRC"}
+{"_id":"1I_AMB","name":"Deutsche Rettungsflugwacht","iata":"1I","icao":"AMB","country":"DE_DEU"}
+{"_id":"1I_EJA","name":"NetJets","iata":"1I","icao":"EJA","country":"US_USA"}
+{"_id":"1I_NVR","name":"Novair","iata":"1I","icao":"NVR","country":"SE_SWE"}
+{"_id":"1I_PZR","name":"Sky Trek International Airlines","iata":"1I","icao":"PZR","country":"US_USA"}
+{"_id":"1L_OSY","name":"Open Skies Consultative Commission","iata":"1L","icao":"OSY","country":"US_USA"}
+{"_id":"1T_RNX","name":"1Time Airline","iata":"1T","icao":"RNX","country":"ZA_ZAF"}
+{"_id":"20_RNE","name":"Air Salone","iata":"20","icao":"RNE","country":"SL_SLE"}
+{"_id":"2B_ARD","name":"Aerocondor","iata":"2B","icao":"ARD","country":"PT_PRT"}
+{"_id":"2D_AOG","name":"Aero VIP","iata":"2D","icao":"AOG","country":"AR_ARG"}
+{"_id":"2F_FTA","name":"Frontier Flying Service","iata":"2F","icao":"FTA","country":"US_USA"}
+{"_id":"2G_CRG","name":"Cargoitalia","iata":"2G","icao":"CRG","country":"IT_ITA"}
+{"_id":"2G_MRR","name":"San Juan Airlines","iata":"2G","icao":"MRR","country":"US_USA"}
+{"_id":"2J_VBW","name":"Air Burkina","iata":"2J","icao":"VBW","country":"BF_BFA"}
+{"_id":"2K_GLG","name":"Aerolineas Galapagos (Aerogal)","iata":"2K","icao":"GLG","country":"EC_ECU"}
+{"_id":"2L_OAW","name":"Helvetic Airways","iata":"2L","icao":"OAW","country":"CH_CHE"}
+{"_id":"2M_MDV","name":"Moldavian Airlines","iata":"2M","icao":"MDV","country":"MD_MDA"}
+{"_id":"2N_NTJ","name":"NextJet","iata":"2N","icao":"NTJ","country":"SE_SWE"}
+{"_id":"2P_GAP","name":"Air Philippines","iata":"2P","icao":"GAP","country":"PH_PHL"}
+{"_id":"2Q_SNC","name":"Air Cargo Carriers","iata":"2Q","icao":"SNC","country":"US_USA"}
+{"_id":"2S_SDY","name":"Island Express","iata":"2S","icao":"SDY","country":"US_USA"}
+{"_id":"2T_HAM","name":"Haiti Ambassador Airlines","iata":"2T","icao":"HAM","country":"HT_HTI"}
+{"_id":"2U_GIP","name":"Air Guinee Express","iata":"2U","icao":"GIP","country":"GN_GIN"}
+{"_id":"2W_WLC","name":"Welcome Air","iata":"2W","icao":"WLC","country":"AT_AUT"}
+{"_id":"2X_2K2","name":"Regionalia Uruguay","iata":"2X","icao":"2K2","country":"UY_URY"}
+{"_id":"2Z_CGN","name":"Changan Airlines","iata":"2Z","icao":"CGN","country":"CN_CHN"}
+{"_id":"3C_CEA","name":"RegionsAir","iata":"3C","icao":"CEA","country":"US_USA"}
+{"_id":"3F_3FF","name":"Fly Colombia ( Interliging Flights )","iata":"3F","icao":"3FF","country":"CO_COL"}
+{"_id":"3G_AYZ","name":"Atlant-Soyuz Airlines","iata":"3G","icao":"AYZ","country":"RU_RUS"}
+{"_id":"3J_WZP","name":"Zip","iata":"3J","icao":"WZP","country":"CA_CAN"}
+{"_id":"3K_JSA","name":"Jetstar Asia Airways","iata":"3K","icao":"JSA","country":"SG_SGP"}
+{"_id":"3L_ISK","name":"Intersky","iata":"3L","icao":"ISK","country":"AT_AUT"}
+{"_id":"3N_URG","name":"Air Urga","iata":"3N","icao":"URG","country":"UA_UKR"}
+{"_id":"3P_TNM","name":"Tiara Air","iata":"3P","icao":"TNM","country":"AW_ABW"}
+{"_id":"3Q_CYH","name":"Yunnan Airlines","iata":"3Q","icao":"CYH","country":"CN_CHN"}
+{"_id":"3R_GAI","name":"Moskovia Airlines","iata":"3R","icao":"GAI","country":"RU_RUS"}
+{"_id":"3T_URN","name":"Turan Air","iata":"3T","icao":"URN","country":"AZ_AZE"}
+{"_id":"3U_CSC","name":"Sichuan Airlines","iata":"3U","icao":"CSC","country":"CN_CHN"}
+{"_id":"3V_TAY","name":"TNT Airways","iata":"3V","icao":"TAY","country":"BE_BEL"}
+{"_id":"3V_VA3","name":"3 Valleys Airlines","iata":"3V","icao":"VA3","country":"FR_FRA"}
+{"_id":"3W_EMX","name":"Euromanx Airways","iata":"3W","icao":"EMX","country":"AT_AUT"}
+{"_id":"47_VVN","name":"88","iata":"47","icao":"VVN","country":"CY_CYP"}
+{"_id":"4A_AKL","name":"Air Kiribati","iata":"4A","icao":"AKL","country":"KI_KIR"}
+{"_id":"4D_ASD","name":"Air Sinai","iata":"4D","icao":"ASD","country":"EG_EGY"}
+{"_id":"4F_ECE","name":"Air City","iata":"4F","icao":"ECE","country":"DE_DEU"}
+{"_id":"4G_GZP","name":"Gazpromavia","iata":"4G","icao":"GZP","country":"RU_RUS"}
+{"_id":"4H_UBD","name":"United Airways","iata":"4H","icao":"UBD","country":"BD_BGD"}
+{"_id":"4K_AAS","name":"Askari Aviation","iata":"4K","icao":"AAS","country":"PK_PAK"}
+{"_id":"4L_MJX","name":"Euroline","iata":"4L","icao":"MJX","country":"GE_GEO"}
+{"_id":"4M_DSM","name":"LAN Argentina","iata":"4M","icao":"DSM","country":"AR_ARG"}
+{"_id":"4N_ANT","name":"Air North Charter - Canada","iata":"4N","icao":"ANT","country":"CA_CAN"}
+{"_id":"4R_HHI","name":"Hamburg International","iata":"4R","icao":"HHI","country":"DE_DEU"}
+{"_id":"4T_BHP","name":"Belair Airlines","iata":"4T","icao":"BHP","country":"CH_CHE"}
+{"_id":"4U_GWI","name":"Germanwings","iata":"4U","icao":"GWI","country":"DE_DEU"}
+{"_id":"4Y_RBU","name":"Airbus France","iata":"4Y","icao":"RBU","country":"FR_FRA"}
+{"_id":"5A_AIP","name":"Alpine Air Express","iata":"5A","icao":"AIP","country":"US_USA"}
+{"_id":"5C_ICL","name":"CAL Cargo Air Lines","iata":"5C","icao":"ICL","country":"IL_ISR"}
+{"_id":"5D_SLI","name":"Aerolitoral","iata":"5D","icao":"SLI","country":"MX_MEX"}
+{"_id":"5D_UDC","name":"DonbassAero","iata":"5D","icao":"UDC","country":"UA_UKR"}
+{"_id":"5F_CIR","name":"Arctic Circle Air Service","iata":"5F","icao":"CIR","country":"US_USA"}
+{"_id":"5G_SSV","name":"Skyservice Airlines","iata":"5G","icao":"SSV","country":"CA_CAN"}
+{"_id":"5H_FFV","name":"Fly540","iata":"5H","icao":"FFV","country":"KE_KEN"}
+{"_id":"5J_CEB","name":"Cebu Pacific","iata":"5J","icao":"CEB","country":"PH_PHL"}
+{"_id":"5K_HFY","name":"Hi Fly","iata":"5K","icao":"HFY","country":"PT_PRT"}
+{"_id":"5L_RSU","name":"Aerosur","iata":"5L","icao":"RSU","country":"BO_BOL"}
+{"_id":"5M_SIB","name":"Sibaviatrans","iata":"5M","icao":"SIB","country":"RU_RUS"}
+{"_id":"5N_AUL","name":"Aeroflot-Nord","iata":"5N","icao":"AUL","country":"RU_RUS"}
+{"_id":"5T_MPE","name":"Canadian North","iata":"5T","icao":"MPE","country":"CA_CAN"}
+{"_id":"5V_UKW","name":"Lviv Airlines","iata":"5V","icao":"UKW","country":"UA_UKR"}
+{"_id":"5W_AEU","name":"Astraeus","iata":"5W","icao":"AEU","country":"GB_GBR"}
+{"_id":"5X_UPS","name":"United Parcel Service","iata":"5X","icao":"UPS","country":"US_USA"}
+{"_id":"5Y_GTI","name":"Atlas Air","iata":"5Y","icao":"GTI","country":"US_USA"}
+{"_id":"5Z_BML","name":"Bismillah Airlines","iata":"5Z","icao":"BML","country":"BD_BGD"}
+{"_id":"5Z_VVC","name":"VivaColombia","iata":"5Z","icao":"VVC","country":"CO_COL"}
+{"_id":"6A_CHP","name":"Consorcio Aviaxsa","iata":"6A","icao":"CHP","country":"MX_MEX"}
+{"_id":"6B_BLX","name":"TUIfly Nordic","iata":"6B","icao":"BLX","country":"SE_SWE"}
+{"_id":"6C_6CC","name":"Vuela Cuba","iata":"6C","icao":"6CC","country":"CU_CUB"}
+{"_id":"6E_IGO","name":"IndiGo Airlines","iata":"6E","icao":"IGO","country":"IN_IND"}
+{"_id":"6F_MKD","name":"MAT Airways","iata":"6F","icao":"MKD","country":"MK_MKD"}
+{"_id":"6G_AWW","name":"Air Wales","iata":"6G","icao":"AWW","country":"GB_GBR"}
+{"_id":"6H_ISR","name":"Israir","iata":"6H","icao":"ISR","country":"IL_ISR"}
+{"_id":"6I_IBZ","name":"International Business Air","iata":"6I","icao":"IBZ","country":"SE_SWE"}
+{"_id":"6J_SNJ","name":"Skynet Asia Airways","iata":"6J","icao":"SNJ","country":"JP_JPN"}
+{"_id":"6K_RIT","name":"Asian Spirit","iata":"6K","icao":"RIT","country":"PH_PHL"}
+{"_id":"6N_NRD","name":"Nordic Regional","iata":"6N","icao":"NRD","country":"SE_SWE"}
+{"_id":"6P_ISG","name":"Club Air","iata":"6P","icao":"ISG","country":"IT_ITA"}
+{"_id":"6Q_SLL","name":"Slovak Airlines","iata":"6Q","icao":"SLL","country":"SK_SVK"}
+{"_id":"6R_DRU","name":"Alrosa Mirny Air Enterprise","iata":"6R","icao":"DRU","country":"RU_RUS"}
+{"_id":"6U_UKR","name":"Air Ukraine","iata":"6U","icao":"UKR","country":"UA_UKR"}
+{"_id":"6V_AXY","name":"Axis Airways","iata":"6V","icao":"AXY","country":"FR_FRA"}
+{"_id":"6V_MRW","name":"Mars RK","iata":"6V","icao":"MRW","country":"UA_UKR"}
+{"_id":"6V_VGA","name":"Air Vegas","iata":"6V","icao":"VGA","country":"US_USA"}
+{"_id":"6W_SOV","name":"Saratov Aviation Division","iata":"6W","icao":"SOV","country":"RU_RUS"}
+{"_id":"6Z_UKS","name":"Ukrainian Cargo Airways","iata":"6Z","icao":"UKS","country":"UA_UKR"}
+{"_id":"76_SJS","name":"Southjet","iata":"76","icao":"SJS","country":"US_USA"}
+{"_id":"77_ZCS","name":"Southjet connect","iata":"77","icao":"ZCS","country":"US_USA"}
+{"_id":"78_XAN","name":"Southjet cargo","iata":"78","icao":"XAN","country":"US_USA"}
+{"_id":"7B_KJC","name":"Krasnojarsky Airlines","iata":"7B","icao":"KJC","country":"RU_RUS"}
+{"_id":"7E_AWU","name":"Aeroline GmbH","iata":"7E","icao":"AWU","country":"DE_DEU"}
+{"_id":"7F_FAB","name":"First Air","iata":"7F","icao":"FAB","country":"CA_CAN"}
+{"_id":"7G_SFJ","name":"Star Flyer","iata":"7G","icao":"SFJ","country":"JP_JPN"}
+{"_id":"7H_ERR","name":"Era Alaska","iata":"7H","icao":"ERR","country":"US_USA"}
+{"_id":"7K_KGL","name":"Kogalymavia Air Company","iata":"7K","icao":"KGL","country":"RU_RUS"}
+{"_id":"7L_ERO","name":"Sun D'Or","iata":"7L","icao":"ERO","country":"IL_ISR"}
+{"_id":"7M_ZTF","name":"Mongolian International Air Lines ","iata":"7M","icao":"ZTF","country":"MN_MNG"}
+{"_id":"7N_CNA","name":"Centavia","iata":"7N","icao":"CNA","country":"RS_SRB"}
+{"_id":"7O_7KK","name":"All Colombia","iata":"7O","icao":"7KK","country":"CO_COL"}
+{"_id":"7O_GAL","name":"Galaxy Air","iata":"7O","icao":"GAL","country":"KG_KGZ"}
+{"_id":"7P_BTV","name":"Metro Batavia","iata":"7P","icao":"BTV","country":"ID_IDN"}
+{"_id":"7R_BRB","name":"BRA-Transportes Aereos","iata":"7R","icao":"BRB","country":"BR_BRA"}
+{"_id":"7T_AGV","name":"Air Glaciers","iata":"7T","icao":"AGV","country":"CH_CHE"}
+{"_id":"7T_TOB","name":"Tobruk Air","iata":"7T","icao":"TOB","country":"LY_LBY"}
+{"_id":"88_8K8","name":"All Australia","iata":"88","icao":"8K8","country":"AU_AUS"}
+{"_id":"8A_BMM","name":"Atlas Blue","iata":"8A","icao":"BMM","country":"MA_MAR"}
+{"_id":"8B_BCC","name":"BusinessAir","iata":"8B","icao":"BCC","country":"TH_THA"}
+{"_id":"8B_GFI","name":"Caribbean Star Airlines","iata":"8B","icao":"GFI","country":"AG_ATG"}
+{"_id":"8C_ATN","name":"Air Transport International","iata":"8C","icao":"ATN","country":"US_USA"}
+{"_id":"8C_CXI","name":"Shanxi Airlines","iata":"8C","icao":"CXI","country":"CN_CHN"}
+{"_id":"8C_HZT","name":"Air Horizon","iata":"8C","icao":"HZT","country":"TG_TGO"}
+{"_id":"8D_EXV","name":"Expo Aviation","iata":"8D","icao":"EXV","country":"LK_LKA"}
+{"_id":"8E_BRG","name":"Bering Air","iata":"8E","icao":"BRG","country":"US_USA"}
+{"_id":"8F_FFR","name":"Fischer Air","iata":"8F","icao":"FFR","country":"CZ_CZE"}
+{"_id":"8F_STP","name":"STP Airways","iata":"8F","icao":"STP","country":"ST_STP"}
+{"_id":"8H_HFR","name":"Heli France","iata":"8H","icao":"HFR","country":"FR_FRA"}
+{"_id":"8J_JFU","name":"Jet4You","iata":"8J","icao":"JFU","country":"MA_MAR"}
+{"_id":"8J_KMV","name":"Komiinteravia","iata":"8J","icao":"KMV","country":"RU_RUS"}
+{"_id":"8K_K88","name":"Voestar","iata":"8K","icao":"K88","country":"BR_BRA"}
+{"_id":"8L_CGP","name":"Cargo Plus Aviation","iata":"8L","icao":"CGP","country":"AE_ARE"}
+{"_id":"8L_RHC","name":"Redhill Aviation","iata":"8L","icao":"RHC","country":"GB_GBR"}
+{"_id":"8M_MMM","name":"Myanmar Airways International","iata":"8M","icao":"MMM","country":"MM_MMR"}
+{"_id":"8M_MXL","name":"Maxair","iata":"8M","icao":"MXL","country":"SE_SWE"}
+{"_id":"8N_NKF","name":"Barents AirLink","iata":"8N","icao":"NKF","country":"SE_SWE"}
+{"_id":"8P_PCO","name":"Pacific Coastal Airline","iata":"8P","icao":"PCO","country":"CA_CAN"}
+{"_id":"8Q_BAJ","name":"Baker Aviation","iata":"8Q","icao":"BAJ","country":"US_USA"}
+{"_id":"8Q_OHY","name":"Onur Air","iata":"8Q","icao":"OHY","country":"TR_TUR"}
+{"_id":"8R_TIB","name":"TRIP Linhas A","iata":"8R","icao":"TIB","country":"BR_BRA"}
+{"_id":"8U_AAW","name":"Afriqiyah Airways","iata":"8U","icao":"AAW","country":"LY_LBY"}
+{"_id":"8V_ACP","name":"Astral Aviation","iata":"8V","icao":"ACP","country":"KE_KEN"}
+{"_id":"8V_WRF","name":"Wright Air Service","iata":"8V","icao":"WRF","country":"US_USA"}
+{"_id":"8W_PWF","name":"Private Wings Flugcharter","iata":"8W","icao":"PWF","country":"DE_DEU"}
+{"_id":"8Y_CYZ","name":"China Postal Airlines","iata":"8Y","icao":"CYZ","country":"CN_CHN"}
+{"_id":"8Y_PBU","name":"Air Burundi","iata":"8Y","icao":"PBU","country":"BI_BDI"}
+{"_id":"8Z_WVL","name":"Wizz Air Hungary","iata":"8Z","icao":"WVL","country":"BG_BGR"}
+{"_id":"8z_LER","name":"Linea Aerea de Servicio Ejecutivo Regional","iata":"8z","icao":"LER","country":"VE_VEN"}
+{"_id":"9A_99F","name":"All Africa","iata":"9A","icao":"99F","country":"ZA_ZAF"}
+{"_id":"9E_FLG","name":"Pinnacle Airlines","iata":"9E","icao":"FLG","country":"US_USA"}
+{"_id":"9F_TLM","name":"Tramm Airlines","iata":"9F","icao":"TLM","country":"AN_ANT"}
+{"_id":"9I_TKY","name":"Thai Sky Airlines","iata":"9I","icao":"TKY","country":"TH_THA"}
+{"_id":"9J_CR1","name":"Regionalia Chile","iata":"9J","icao":"CR1","country":"CL_CHL"}
+{"_id":"9K_KAP","name":"Cape Air","iata":"9K","icao":"KAP","country":"US_USA"}
+{"_id":"9L_CJC","name":"Colgan Air","iata":"9L","icao":"CJC","country":"US_USA"}
+{"_id":"9N_N78","name":"Regional Air Iceland","iata":"9N","icao":"N78","country":"IS_ISL"}
+{"_id":"9Q_PBA","name":"PB Air","iata":"9Q","icao":"PBA","country":"TH_THA"}
+{"_id":"9R_NSE","name":"SATENA","iata":"9R","icao":"NSE","country":"CO_COL"}
+{"_id":"9R_VAP","name":"Phuket Air","iata":"9R","icao":"VAP","country":"TH_THA"}
+{"_id":"9S_CQH","name":"Spring Airlines","iata":"9S","icao":"CQH","country":"CN_CHN"}
+{"_id":"9T_ABS","name":"Transwest Air","iata":"9T","icao":"ABS","country":"CA_CAN"}
+{"_id":"9U_MLD","name":"Air Moldova","iata":"9U","icao":"MLD","country":"MD_MDA"}
+{"_id":"9W_JAI","name":"Jet Airways","iata":"9W","icao":"JAI","country":"IN_IND"}
+{"_id":"9X_9XX","name":"Regionalia Venezuela","iata":"9X","icao":"9XX","country":"VE_VEN"}
+{"_id":"9X_ACL","name":"Itali Airlines","iata":"9X","icao":"ACL","country":"IT_ITA"}
+{"_id":"9Y_KZK","name":"Air Kazakhstan","iata":"9Y","icao":"KZK","country":"KZ_KAZ"}
+{"_id":"A1_A1F","name":"Atifly","iata":"A1","icao":"A1F","country":"US_USA"}
+{"_id":"A2_AL2","name":"All America","iata":"A2","icao":"AL2","country":"US_USA"}
+{"_id":"A2_CIU","name":"Cielos Airlines","iata":"A2","icao":"CIU","country":"PE_PER"}
+{"_id":"A3_AEE","name":"Aegean Airlines","iata":"A3","icao":"AEE","country":"GR_GRC"}
+{"_id":"A4_SWD","name":"Southern Winds Airlines","iata":"A4","icao":"SWD","country":"AR_ARG"}
+{"_id":"A5_RLA","name":"Airlinair","iata":"A5","icao":"RLA","country":"FR_FRA"}
+{"_id":"A6_LPV","name":"Air Alps Aviation","iata":"A6","icao":"LPV","country":"AT_AUT"}
+{"_id":"A7_MPD","name":"Air Plus Comet","iata":"A7","icao":"MPD","country":"ES_ESP"}
+{"_id":"A8_BGL","name":"Benin Golf Air","iata":"A8","icao":"BGL","country":"BJ_BEN"}
+{"_id":"A9_TGZ","name":"Georgian Airways","iata":"A9","icao":"TGZ","country":"GE_GEO"}
+{"_id":"AA_AAL","name":"American Airlines","iata":"AA","icao":"AAL","country":"US_USA"}
+{"_id":"AB_BER","name":"Air Berlin","iata":"AB","icao":"BER","country":"DE_DEU"}
+{"_id":"AC_ACA","name":"Air Canada","iata":"AC","icao":"ACA","country":"CA_CAN"}
+{"_id":"AD_AZU","name":"Azul","iata":"AD","icao":"AZU","country":"BR_BRA"}
+{"_id":"AD_PRZ","name":"Air Paradise International","iata":"AD","icao":"PRZ","country":"ID_IDN"}
+{"_id":"AE_MDA","name":"Mandarin Airlines","iata":"AE","icao":"MDA","country":"TW_TWN"}
+{"_id":"AF_AFR","name":"Air France","iata":"AF","icao":"AFR","country":"FR_FRA"}
+{"_id":"AG_ABR","name":"Air Contractors","iata":"AG","icao":"ABR","country":"IE_IRL"}
+{"_id":"AH_DAH","name":"Air Algerie","iata":"AH","icao":"DAH","country":"DZ_DZA"}
+{"_id":"AI_AIC","name":"Air India Limited","iata":"AI","icao":"AIC","country":"IN_IND"}
+{"_id":"AJ_NIG","name":"Aero Contractors","iata":"AJ","icao":"NIG","country":"NG_NGA"}
+{"_id":"AK_AXM","name":"AirAsia","iata":"AK","icao":"AXM","country":"MY_MYS"}
+{"_id":"AL_SYX","name":"Skywalk Airlines","iata":"AL","icao":"SYX","country":"US_USA"}
+{"_id":"AL_TXC","name":"Transaviaexport","iata":"AL","icao":"TXC","country":"BY_BLR"}
+{"_id":"AM_AMX","name":"AeroMéxico","iata":"AM","icao":"AMX","country":"MX_MEX"}
+{"_id":"AN_AAA","name":"Ansett Australia","iata":"AN","icao":"AAA","country":"AU_AUS"}
+{"_id":"AO_AUZ","name":"Australian Airlines","iata":"AO","icao":"AUZ","country":"AU_AUS"}
+{"_id":"AP_ADH","name":"Air One","iata":"AP","icao":"ADH","country":"IT_ITA"}
+{"_id":"AP_AIB","name":"Airbus Industrie","iata":"AP","icao":"AIB","country":"FR_FRA"}
+{"_id":"AQ_AAH","name":"Aloha Airlines","iata":"AQ","icao":"AAH","country":"US_USA"}
+{"_id":"AR_ARG","name":"Aerolineas Argentinas","iata":"AR","icao":"ARG","country":"AR_ARG"}
+{"_id":"AT_RAM","name":"Royal Air Maroc","iata":"AT","icao":"RAM","country":"MA_MAR"}
+{"_id":"AU_AUT","name":"Austral Lineas Aereas","iata":"AU","icao":"AUT","country":"AR_ARG"}
+{"_id":"AW_AWM","name":"Asian Wings Airways","iata":"AW","icao":"AWM","country":"MM_MMR"}
+{"_id":"AW_DIR","name":"Dirgantara Air Service","iata":"AW","icao":"DIR","country":"ID_IDN"}
+{"_id":"AW_SCH","name":"CHC Airways","iata":"AW","icao":"SCH","country":"NL_NLD"}
+{"_id":"AX_LOF","name":"Trans States Airlines","iata":"AX","icao":"LOF","country":"US_USA"}
+{"_id":"AY_FIN","name":"Finnair","iata":"AY","icao":"FIN","country":"FI_FIN"}
+{"_id":"AZ_AZA","name":"Alitalia","iata":"AZ","icao":"AZA","country":"IT_ITA"}
+{"_id":"B0_666","name":"Aws express","iata":"B0","icao":"666","country":"US_USA"}
+{"_id":"B1_BA1","name":"Baltic Air lines","iata":"B1","icao":"BA1","country":"LV_LVA"}
+{"_id":"B2_BRU","name":"Belavia Belarusian Airlines","iata":"B2","icao":"BRU","country":"BY_BLR"}
+{"_id":"B3_BLV","name":"Bellview Airlines","iata":"B3","icao":"BLV","country":"NG_NGA"}
+{"_id":"B4_BCF","name":"BACH Flugbetriebsges","iata":"B4","icao":"BCF","country":"AT_AUT"}
+{"_id":"B4_BKA","name":"Bankair","iata":"B4","icao":"BKA","country":"US_USA"}
+{"_id":"B4_GSM","name":"Flyglobespan","iata":"B4","icao":"GSM","country":"GB_GBR"}
+{"_id":"B5_FLT","name":"Flightline","iata":"B5","icao":"FLT","country":"GB_GBR"}
+{"_id":"B6_JBU","name":"JetBlue Airways","iata":"B6","icao":"JBU","country":"US_USA"}
+{"_id":"B7_UIA","name":"Uni Air","iata":"B7","icao":"UIA","country":"TW_TWN"}
+{"_id":"B8_ERT","name":"Eritrean Airlines","iata":"B8","icao":"ERT","country":"ER_ERI"}
+{"_id":"B9_BGD","name":"Air Bangladesh","iata":"B9","icao":"BGD","country":"BD_BGD"}
+{"_id":"BA_BAW","name":"British Airways","iata":"BA","icao":"BAW","country":"GB_GBR"}
+{"_id":"BB_SBS","name":"Seaborne Airlines","iata":"BB","icao":"SBS","country":"US_USA"}
+{"_id":"BC_SKY","name":"Skymark Airlines","iata":"BC","icao":"SKY","country":"JP_JPN"}
+{"_id":"BD_BMA","name":"bmi","iata":"BD","icao":"BMA","country":"GB_GBR"}
+{"_id":"BE_BEE","name":"Flybe","iata":"BE","icao":"BEE","country":"GB_GBR"}
+{"_id":"BF_BBD","name":"Bluebird Cargo","iata":"BF","icao":"BBD","country":"IS_ISL"}
+{"_id":"BG_BBC","name":"Biman Bangladesh Airlines","iata":"BG","icao":"BBC","country":"BD_BGD"}
+{"_id":"BI_RBA","name":"Royal Brunei Airlines","iata":"BI","icao":"RBA","country":"BN_BRN"}
+{"_id":"BJ_LBT","name":"Nouvel Air Tunisie","iata":"BJ","icao":"LBT","country":"TN_TUN"}
+{"_id":"BK_PDC","name":"Potomac Air","iata":"BK","icao":"PDC","country":"US_USA"}
+{"_id":"BL_PIC","name":"Jetstar Pacific","iata":"BL","icao":"PIC","country":"VN_VNM"}
+{"_id":"BM_BYE","name":"Bayu Indonesia Air","iata":"BM","icao":"BYE","country":"ID_IDN"}
+{"_id":"BN_BNF","name":"Braniff International Airways","iata":"BN","icao":"BNF","country":"US_USA"}
+{"_id":"BN_HZA","name":"Horizon Airlines","iata":"BN","icao":"HZA","country":"AU_AUS"}
+{"_id":"BO_BOU","name":"Bouraq Indonesia Airlines","iata":"BO","icao":"BOU","country":"ID_IDN"}
+{"_id":"BP_BOT","name":"Air Botswana","iata":"BP","icao":"BOT","country":"BW_BWA"}
+{"_id":"BQ_BQB","name":"Buquebus Líneas Aéreas","iata":"BQ","icao":"BQB","country":"UY_URY"}
+{"_id":"BQ_ROM","name":"Aeromar","iata":"BQ","icao":"ROM","country":"DO_DOM"}
+{"_id":"BR_EVA","name":"EVA Air","iata":"BR","icao":"EVA","country":"TW_TWN"}
+{"_id":"BS_BIH","name":"British International Helicopters","iata":"BS","icao":"BIH","country":"GB_GBR"}
+{"_id":"BT_BTI","name":"Air Baltic","iata":"BT","icao":"BTI","country":"LV_LVA"}
+{"_id":"BU_BKY","name":"Blue Sky America","iata":"BU","icao":"BKY","country":"US_USA"}
+{"_id":"BU_BRA","name":"Braathens","iata":"BU","icao":"BRA","country":"NO_NOR"}
+{"_id":"BU_BUU","name":"Baikotovitchestrian Airlines ","iata":"BU","icao":"BUU","country":"AS_ASM"}
+{"_id":"BV_BPA","name":"Blue Panorama Airlines","iata":"BV","icao":"BPA","country":"IT_ITA"}
+{"_id":"BW_BWA","name":"Caribbean Airlines","iata":"BW","icao":"BWA","country":"TT_TTO"}
+{"_id":"BX_CST","name":"Coast Air","iata":"BX","icao":"CST","country":"NO_NOR"}
+{"_id":"BY_TOM","name":"Thomsonfly","iata":"BY","icao":"TOM","country":"GB_GBR"}
+{"_id":"BZ_BDA","name":"Blue Dart Aviation","iata":"BZ","icao":"BDA","country":"IN_IND"}
+{"_id":"BZ_BSA","name":"Black Stallion Airways","iata":"BZ","icao":"BSA","country":"US_USA"}
+{"_id":"BZ_BZL","name":"Aero Brazil","iata":"BZ","icao":"BZL","country":"BR_BRA"}
+{"_id":"BZ_KEE","name":"Keystone Air Services","iata":"BZ","icao":"KEE","country":"CA_CAN"}
+{"_id":"C0_CLW","name":"Centralwings","iata":"C0","icao":"CLW","country":"PL_POL"}
+{"_id":"C1_CA1","name":"CanXpress","iata":"C1","icao":"CA1","country":"CA_CAN"}
+{"_id":"C2_CAP","name":"CanXplorer","iata":"C2","icao":"CAP","country":"CA_CAN"}
+{"_id":"C3_KIS","name":"Contact Air","iata":"C3","icao":"KIS","country":"DE_DEU"}
+{"_id":"C3_QAX","name":"QatXpress","iata":"C3","icao":"QAX","country":"QA_QAT"}
+{"_id":"C4_IMX","name":"Zimex Aviation","iata":"C4","icao":"IMX","country":"CH_CHE"}
+{"_id":"C4_LIX","name":"LionXpress","iata":"C4","icao":"LIX","country":"CM_CMR"}
+{"_id":"C5_UCA","name":"CommutAir","iata":"C5","icao":"UCA","country":"US_USA"}
+{"_id":"C6_CJA","name":"CanJet","iata":"C6","icao":"CJA","country":"CA_CAN"}
+{"_id":"C7_CR7","name":"Sky Wing Pacific","iata":"C7","icao":"CR7","country":"KR_KOR"}
+{"_id":"C7_RLE","name":"Rico Linhas A","iata":"C7","icao":"RLE","country":"BR_BRA"}
+{"_id":"C8_WDY","name":"Chicago Express","iata":"C8","icao":"WDY","country":"US_USA"}
+{"_id":"C9_RUS","name":"Cirrus Airlines","iata":"C9","icao":"RUS","country":"DE_DEU"}
+{"_id":"CA_CCA","name":"Air China","iata":"CA","icao":"CCA","country":"CN_CHN"}
+{"_id":"CB_CCC","name":"CCML Airlines","iata":"CB","icao":"CCC","country":"CO_COL"}
+{"_id":"CC_ABD","name":"Air Atlanta Icelandic","iata":"CC","icao":"ABD","country":"IS_ISL"}
+{"_id":"CC_MCK","name":"Macair Airlines","iata":"CC","icao":"MCK","country":"AU_AUS"}
+{"_id":"CD_LLR","name":"Alliance Air","iata":"CD","icao":"LLR","country":"IN_IND"}
+{"_id":"CE_NTW","name":"Nationwide Airlines","iata":"CE","icao":"NTW","country":"ZA_ZAF"}
+{"_id":"CF_SDR","name":"City Airline","iata":"CF","icao":"SDR","country":"SE_SWE"}
+{"_id":"CG_TOK","name":"Airlines PNG","iata":"CG","icao":"TOK","country":"PG_PNG"}
+{"_id":"CH_BMJ","name":"Bemidji Airlines","iata":"CH","icao":"BMJ","country":"US_USA"}
+{"_id":"CI_CAL","name":"China Airlines","iata":"CI","icao":"CAL","country":"TW_TWN"}
+{"_id":"CJ_CBF","name":"China Northern Airlines","iata":"CJ","icao":"CBF","country":"CN_CHN"}
+{"_id":"CJ_CFE","name":"BA CityFlyer","iata":"CJ","icao":"CFE","country":"GB_GBR"}
+{"_id":"CK_CKK","name":"China Cargo Airlines","iata":"CK","icao":"CKK","country":"CN_CHN"}
+{"_id":"CL_CLH","name":"Lufthansa CityLine","iata":"CL","icao":"CLH","country":"DE_DEU"}
+{"_id":"CM_CMP","name":"Copa Airlines","iata":"CM","icao":"CMP","country":"PA_PAN"}
+{"_id":"CN_WWD","name":"Westward Airways","iata":"CN","icao":"WWD","country":"US_USA"}
+{"_id":"CN_YCP","name":"Canadian National Airways","iata":"CN","icao":"YCP","country":"CA_CAN"}
+{"_id":"CO_COA","name":"Continental Airlines","iata":"CO","icao":"COA","country":"US_USA"}
+{"_id":"CP_CDN","name":"Canadian Airlines","iata":"CP","icao":"CDN","country":"CA_CAN"}
+{"_id":"CP_CPZ","name":"Compass Airlines","iata":"CP","icao":"CPZ","country":"US_USA"}
+{"_id":"CQ_EXL","name":"Sunshine Express Airlines","iata":"CQ","icao":"EXL","country":"AU_AUS"}
+{"_id":"CQ_KOL","name":"SOCHI AIR","iata":"CQ","icao":"KOL","country":"RU_RUS"}
+{"_id":"CS_CMI","name":"Continental Micronesia","iata":"CS","icao":"CMI","country":"US_USA"}
+{"_id":"CT_CAT","name":"Civil Air Transport","iata":"CT","icao":"CAT","country":"TW_TWN"}
+{"_id":"CU_CUB","name":"Cubana de Aviación","iata":"CU","icao":"CUB","country":"CU_CUB"}
+{"_id":"CV_CLX","name":"Cargolux","iata":"CV","icao":"CLX","country":"LU_LUX"}
+{"_id":"CV_CVA","name":"Air Chathams","iata":"CV","icao":"CVA","country":"NZ_NZL"}
+{"_id":"CW_CWM","name":"Air Marshall Islands","iata":"CW","icao":"CWM","country":"MH_MHL"}
+{"_id":"CX_CPA","name":"Cathay Pacific","iata":"CX","icao":"CPA","country":"HK_HKG"}
+{"_id":"CY_CYP","name":"Cyprus Airways","iata":"CY","icao":"CYP","country":"CY_CYP"}
+{"_id":"CZ_CSN","name":"China Southern Airlines","iata":"CZ","icao":"CSN","country":"CN_CHN"}
+{"_id":"D1_MDO","name":"Domenican Airlines","iata":"D1","icao":"MDO","country":"DO_DOM"}
+{"_id":"D3_DAO","name":"Daallo Airlines","iata":"D3","icao":"DAO","country":"DJ_DJI"}
+{"_id":"D4_LID","name":"Alidaunia","iata":"D4","icao":"LID","country":"IT_ITA"}
+{"_id":"D5_DAU","name":"Dauair","iata":"D5","icao":"DAU","country":"DE_DEU"}
+{"_id":"D6_ILN","name":"Interair South Africa","iata":"D6","icao":"ILN","country":"ZA_ZAF"}
+{"_id":"D7_RDN","name":"Dinar","iata":"D7","icao":"RDN","country":"AR_ARG"}
+{"_id":"D7_XAX","name":"AirAsia X","iata":"D7","icao":"XAX","country":"MY_MYS"}
+{"_id":"D8_DJB","name":"Djibouti Airlines","iata":"D8","icao":"DJB","country":"DJ_DJI"}
+{"_id":"D9_DNV","name":"Aeroflot-Don","iata":"D9","icao":"DNV","country":"RU_RUS"}
+{"_id":"DA_GRG","name":"Air Georgia","iata":"DA","icao":"GRG","country":"GE_GEO"}
+{"_id":"DB_BZH","name":"Brit Air","iata":"DB","icao":"BZH","country":"FR_FRA"}
+{"_id":"DC_GAO","name":"Golden Air","iata":"DC","icao":"GAO","country":"SE_SWE"}
+{"_id":"DD_NOK","name":"Nok Air","iata":"DD","icao":"NOK","country":"TH_THA"}
+{"_id":"DE_CFG","name":"Condor Flugdienst","iata":"DE","icao":"CFG","country":"DE_DEU"}
+{"_id":"DF_MJG","name":"Michael Airlines","iata":"DF","icao":"MJG","country":"PR_PRI"}
+{"_id":"DG_SRQ","name":"South East Asian Airlines","iata":"DG","icao":"SRQ","country":"PH_PHL"}
+{"_id":"DH_DSY","name":"Dennis Sky","iata":"DH","icao":"DSY","country":"IL_ISR"}
+{"_id":"DH_DVA","name":"Discovery Airways","iata":"DH","icao":"DVA","country":"US_USA"}
+{"_id":"DH_IDE","name":"Independence Air","iata":"DH","icao":"IDE","country":"US_USA"}
+{"_id":"DI_BAG","name":"dba","iata":"DI","icao":"BAG","country":"DE_DEU"}
+{"_id":"DJ_PBN","name":"Pacific Blue","iata":"DJ","icao":"PBN","country":"NZ_NZL"}
+{"_id":"DJ_PLB","name":"Polynesian Blue","iata":"DJ","icao":"PLB","country":"NZ_NZL"}
+{"_id":"DJ_VBI","name":"Virgin Blue","iata":"DJ","icao":"VBI","country":"AU_AUS"}
+{"_id":"DK_ELA","name":"Eastland Air","iata":"DK","icao":"ELA","country":"AU_AUS"}
+{"_id":"DL_DAL","name":"Delta Air Lines","iata":"DL","icao":"DAL","country":"US_USA"}
+{"_id":"DN_SGG","name":"Senegal Airlines","iata":"DN","icao":"SGG","country":"SN_SEN"}
+{"_id":"DO_DOA","name":"Dominicana de Aviaci","iata":"DO","icao":"DOA","country":"DO_DOM"}
+{"_id":"DP_FCA","name":"First Choice Airways","iata":"DP","icao":"FCA","country":"GB_GBR"}
+{"_id":"DR_BIE","name":"Air Mediterranee","iata":"DR","icao":"BIE","country":"FR_FRA"}
+{"_id":"DT_DTA","name":"TAAG Angola Airlines","iata":"DT","icao":"DTA","country":"AO_AGO"}
+{"_id":"DU_HMS","name":"Hemus Air","iata":"DU","icao":"HMS","country":"BG_BGR"}
+{"_id":"DV_ACK","name":"Nantucket Airlines","iata":"DV","icao":"ACK","country":"US_USA"}
+{"_id":"DV_LTF","name":"Lufttaxi Fluggesellschaft","iata":"DV","icao":"LTF","country":"DE_DEU"}
+{"_id":"DV_VSV","name":"Scat Air","iata":"DV","icao":"VSV","country":"KZ_KAZ"}
+{"_id":"DW_DLT","name":"Deutsche Luftverkehrsgesellschaft","iata":"DW","icao":"DLT","country":"DE_DEU"}
+{"_id":"DW_UCR","name":"Aero-Charter Ukraine","iata":"DW","icao":"UCR","country":"UA_UKR"}
+{"_id":"DX_DTR","name":"DAT Danish Air Transport","iata":"DX","icao":"DTR","country":"DK_DNK"}
+{"_id":"DY_NAX","name":"Norwegian Air Shuttle","iata":"DY","icao":"NAX","country":"NO_NOR"}
+{"_id":"E0_ESS","name":"Eos Airlines","iata":"E0","icao":"ESS","country":"US_USA"}
+{"_id":"E1_ES2","name":"Usa Sky Cargo","iata":"E1","icao":"ES2","country":"US_USA"}
+{"_id":"E2_GRN","name":"Rio Grande Air","iata":"E2","icao":"GRN","country":"US_USA"}
+{"_id":"E2_KMP","name":"Kampuchea Airlines","iata":"E2","icao":"KMP","country":"KH_KHM"}
+{"_id":"E3_DMO","name":"Domodedovo Airlines","iata":"E3","icao":"DMO","country":"RU_RUS"}
+{"_id":"E4_GIE","name":"Elysian Airlines","iata":"E4","icao":"GIE","country":"CM_CMR"}
+{"_id":"E4_RSO","name":"Aero Asia International","iata":"E4","icao":"RSO","country":"PK_PAK"}
+{"_id":"E5_BRZ","name":"Samara Airlines","iata":"E5","icao":"BRZ","country":"RU_RUS"}
+{"_id":"E5_RBG","name":"Air Arabia Egypt","iata":"E5","icao":"RBG","country":"EG_EGY"}
+{"_id":"E7_EAF","name":"European Aviation Air Charter","iata":"E7","icao":"EAF","country":"GB_GBR"}
+{"_id":"E7_ESF","name":"Estafeta Carga Aerea","iata":"E7","icao":"ESF","country":"MX_MEX"}
+{"_id":"E8_ELG","name":"Alpi Eagles","iata":"E8","icao":"ELG","country":"IT_ITA"}
+{"_id":"E9_CXS","name":"Boston-Maine Airways","iata":"E9","icao":"CXS","country":"US_USA"}
+{"_id":"EA_EAL","name":"European Air Express","iata":"EA","icao":"EAL","country":"DE_DEU"}
+{"_id":"EC_TWN","name":"Avialeasing Aviation Company","iata":"EC","icao":"TWN","country":"UZ_UZB"}
+{"_id":"ED_ABQ","name":"Airblue","iata":"ED","icao":"ABQ","country":"PK_PAK"}
+{"_id":"EE_EAY","name":"Aero Airlines","iata":"EE","icao":"EAY","country":"EE_EST"}
+{"_id":"EF_EFA","name":"Far Eastern Air Transport","iata":"EF","icao":"EFA","country":"TW_TWN"}
+{"_id":"EG_JAA","name":"Japan Asia Airways","iata":"EG","icao":"JAA","country":"JP_JPN"}
+{"_id":"EH_AKX","name":"Air Nippon Network Co. Ltd.","iata":"EH","icao":"AKX","country":"JP_JPN"}
+{"_id":"EH_EHM","name":"Euro Harmony","iata":"EH","icao":"EHM","country":"PT_PRT"}
+{"_id":"EH_SET","name":"SAETA","iata":"EH","icao":"SET","country":"EC_ECU"}
+{"_id":"EI_EIN","name":"Aer Lingus","iata":"EI","icao":"EIN","country":"IE_IRL"}
+{"_id":"EJ_NEA","name":"New England Airlines","iata":"EJ","icao":"NEA","country":"US_USA"}
+{"_id":"EK_UAE","name":"Emirates","iata":"EK","icao":"UAE","country":"AE_ARE"}
+{"_id":"EL_ANK","name":"Air Nippon","iata":"EL","icao":"ANK","country":"JP_JPN"}
+{"_id":"EM_AEB","name":"Aero Benin","iata":"EM","icao":"AEB","country":"BJ_BEN"}
+{"_id":"EM_CFS","name":"Empire Airlines","iata":"EM","icao":"CFS","country":"US_USA"}
+{"_id":"EN_DLA","name":"Air Dolomiti","iata":"EN","icao":"DLA","country":"IT_ITA"}
+{"_id":"EO_LHN","name":"Express One International","iata":"EO","icao":"LHN","country":"US_USA"}
+{"_id":"EP_IRC","name":"Iran Aseman Airlines","iata":"EP","icao":"IRC","country":"IR_IRN"}
+{"_id":"EQ_TAE","name":"TAME","iata":"EQ","icao":"TAE","country":"EC_ECU"}
+{"_id":"ER_DHL","name":"Astar Air Cargo","iata":"ER","icao":"DHL","country":"US_USA"}
+{"_id":"ER_RWW","name":"Fly Europa","iata":"ER","icao":"RWW","country":"ES_ESP"}
+{"_id":"ES_DHX","name":"DHL International","iata":"ES","icao":"DHX","country":"BH_BHR"}
+{"_id":"ES_EUV","name":"EuropeSky","iata":"ES","icao":"EUV","country":"DE_DEU"}
+{"_id":"ET_ETH","name":"Ethiopian Airlines","iata":"ET","icao":"ETH","country":"ET_ETH"}
+{"_id":"EU_EEA","name":"Empresa Ecuatoriana De Aviacion","iata":"EU","icao":"EEA","country":"EC_ECU"}
+{"_id":"EV_ASQ","name":"Atlantic Southeast Airlines","iata":"EV","icao":"ASQ","country":"US_USA"}
+{"_id":"EW_EWG","name":"Eurowings","iata":"EW","icao":"EWG","country":"DE_DEU"}
+{"_id":"EX_SDO","name":"Air Santo Domingo","iata":"EX","icao":"SDO","country":"DO_DOM"}
+{"_id":"EY_ETD","name":"Etihad Airways","iata":"EY","icao":"ETD","country":"AE_ARE"}
+{"_id":"EZ_EIA","name":"Evergreen International Airlines","iata":"EZ","icao":"EIA","country":"US_USA"}
+{"_id":"EZ_SUS","name":"Sun Air of Scandinavia","iata":"EZ","icao":"SUS","country":"DK_DNK"}
+{"_id":"F1_FBL","name":"Fly Brasil","iata":"F1","icao":"FBL","country":"BR_BRA"}
+{"_id":"F2_FLM","name":"Fly Air","iata":"F2","icao":"FLM","country":"TR_TUR"}
+{"_id":"F3_FSW","name":"Faso Airways","iata":"F3","icao":"FSW","country":"BF_BFA"}
+{"_id":"F4_NBK","name":"Albarka Air","iata":"F4","icao":"NBK","country":"NG_NGA"}
+{"_id":"F5_COZ","name":"Cosmic Air","iata":"F5","icao":"COZ","country":"NP_NPL"}
+{"_id":"F5_GF5","name":"Global Freightways","iata":"F5","icao":"GF5","country":"US_USA"}
+{"_id":"F6_RCK","name":"Faroejet","iata":"F6","icao":"RCK","country":"FO_FRO"}
+{"_id":"F7_BBO","name":"Flybaboo","iata":"F7","icao":"BBO","country":"CH_CHE"}
+{"_id":"F9_FFT","name":"Frontier Airlines","iata":"F9","icao":"FFT","country":"US_USA"}
+{"_id":"FA_4AA","name":"Epic Holiday","iata":"FA","icao":"4AA","country":"US_USA"}
+{"_id":"FA_SFR","name":"Safair","iata":"FA","icao":"SFR","country":"ZA_ZAF"}
+{"_id":"FB_LZB","name":"Bulgaria Air","iata":"FB","icao":"LZB","country":"BG_BGR"}
+{"_id":"FC_WBA","name":"Finncomm Airlines","iata":"FC","icao":"WBA","country":"FI_FIN"}
+{"_id":"FD_AIQ","name":"Thai AirAsia","iata":"FD","icao":"AIQ","country":"TH_THA"}
+{"_id":"FE_WCP","name":"Primaris Airlines","iata":"FE","icao":"WCP","country":"US_USA"}
+{"_id":"FF_TOW","name":"Tower Air","iata":"FF","icao":"TOW","country":"US_USA"}
+{"_id":"FG_AFG","name":"Ariana Afghan Airlines","iata":"FG","icao":"AFG","country":"AF_AFG"}
+{"_id":"FH_FHI","name":"FlyHigh Airlines Ireland (FH)","iata":"FH","icao":"FHI","country":"IE_IRL"}
+{"_id":"FH_FUA","name":"Futura International Airways","iata":"FH","icao":"FUA","country":"ES_ESP"}
+{"_id":"FI_ICE","name":"Icelandair","iata":"FI","icao":"ICE","country":"IS_ISL"}
+{"_id":"FJ_FJI","name":"Air Pacific","iata":"FJ","icao":"FJI","country":"FJ_FJI"}
+{"_id":"FK_WTA","name":"Africa West","iata":"FK","icao":"WTA","country":"TG_TGO"}
+{"_id":"FL_TRS","name":"AirTran Airways","iata":"FL","icao":"TRS","country":"US_USA"}
+{"_id":"FM_CSH","name":"Shanghai Airlines","iata":"FM","icao":"CSH","country":"CN_CHN"}
+{"_id":"FO_ATM","name":"Airlines Of Tasmania","iata":"FO","icao":"ATM","country":"AU_AUS"}
+{"_id":"FP_FRE","name":"Freedom Air","iata":"FP","icao":"FRE","country":"US_USA"}
+{"_id":"FQ_TCW","name":"Thomas Cook Airlines","iata":"FQ","icao":"TCW","country":"BE_BEL"}
+{"_id":"FR_RYR","name":"Ryanair","iata":"FR","icao":"RYR","country":"IE_IRL"}
+{"_id":"FS_STU","name":"Servicios de Transportes A","iata":"FS","icao":"STU","country":"AR_ARG"}
+{"_id":"FT_SRH","name":"Siem Reap Airways","iata":"FT","icao":"SRH","country":"KH_KHM"}
+{"_id":"FU_FXX","name":"Felix Airways","iata":"FU","icao":"FXX","country":"YE_YEM"}
+{"_id":"FV_SDM","name":"Rossiya-Russian Federationn Airlines","iata":"FV","icao":"SDM","country":"RU_RUS"}
+{"_id":"FW_IBX","name":"Ibex Airlines","iata":"FW","icao":"IBX","country":"JP_JPN"}
+{"_id":"FX_FDX","name":"Federal Express","iata":"FX","icao":"FDX","country":"US_USA"}
+{"_id":"FY_FFM","name":"Firefly","iata":"FY","icao":"FFM","country":"MY_MYS"}
+{"_id":"FY_NWR","name":"Northwest Regional Airlines","iata":"FY","icao":"NWR","country":"AU_AUS"}
+{"_id":"FZ_FDB","name":"Fly Dubai","iata":"FZ","icao":"FDB","country":"AE_ARE"}
+{"_id":"G0_GHB","name":"Ghana International Airlines","iata":"G0","icao":"GHB","country":"GH_GHA"}
+{"_id":"G1_IG1","name":"Indya Airline Group","iata":"G1","icao":"IG1","country":"IN_IND"}
+{"_id":"G1_IKA","name":"Gorkha Airlines","iata":"G1","icao":"IKA","country":"NP_NPL"}
+{"_id":"G2_VXG","name":"Avirex","iata":"G2","icao":"VXG","country":"GA_GAB"}
+{"_id":"G3_CIX","name":"City Connexion Airlines","iata":"G3","icao":"CIX","country":"BI_BDI"}
+{"_id":"G3_GLO","name":"Gol Transportes Aéreos","iata":"G3","icao":"GLO","country":"BR_BRA"}
+{"_id":"G3_SEH","name":"Sky Express","iata":"G3","icao":"SEH","country":"GR_GRC"}
+{"_id":"G4_AAY","name":"Allegiant Air","iata":"G4","icao":"AAY","country":"US_USA"}
+{"_id":"G6_BSR","name":"Guine Bissaur Airlines","iata":"G6","icao":"BSR","country":"GW_GNB"}
+{"_id":"G7_GJS","name":"GoJet Airlines","iata":"G7","icao":"GJS","country":"US_USA"}
+{"_id":"G7_GNF","name":"Gandalf Airlines","iata":"G7","icao":"GNF","country":"IT_ITA"}
+{"_id":"G8_AGB","name":"Air Service Gabon","iata":"G8","icao":"AGB","country":"GA_GAB"}
+{"_id":"G8_ENK","name":"Enkor JSC","iata":"G8","icao":"ENK","country":"RU_RUS"}
+{"_id":"G8_GOW","name":"Go Air","iata":"G8","icao":"GOW","country":"IN_IND"}
+{"_id":"G8_GUJ","name":"Gujarat Airways","iata":"G8","icao":"GUJ","country":"IN_IND"}
+{"_id":"G9_ABY","name":"Air Arabia","iata":"G9","icao":"ABY","country":"AE_ARE"}
+{"_id":"GA_GIA","name":"Garuda Indonesia","iata":"GA","icao":"GIA","country":"ID_IDN"}
+{"_id":"GB_ABX","name":"ABX Air","iata":"GB","icao":"ABX","country":"US_USA"}
+{"_id":"GB_BZE","name":"BRAZIL AIR","iata":"GB","icao":"BZE","country":"BR_BRA"}
+{"_id":"GC_GNR","name":"Gambia International Airlines","iata":"GC","icao":"GNR","country":"GM_GMB"}
+{"_id":"GD_AHA","name":"Air Alpha Greenland","iata":"GD","icao":"AHA","country":"DK_DNK"}
+{"_id":"GD_GOD","name":"GoDutch","iata":"GD","icao":"GOD","country":"NL_NLD"}
+{"_id":"GE_TNA","name":"TransAsia Airways","iata":"GE","icao":"TNA","country":"TW_TWN"}
+{"_id":"GF_GBA","name":"Gulf Air Bahrain","iata":"GF","icao":"GBA","country":"BH_BHR"}
+{"_id":"GG_GGC","name":"Cargo 360","iata":"GG","icao":"GGC","country":"US_USA"}
+{"_id":"GG_GUY","name":"Air Guyane","iata":"GG","icao":"GUY","country":"GF_GUF"}
+{"_id":"GG_HAH","name":"Air Comores International","iata":"GG","icao":"HAH","country":"KM_COM"}
+{"_id":"GH_GLP","name":"Globus","iata":"GH","icao":"GLP","country":"RU_RUS"}
+{"_id":"GI_IKA","name":"Itek Air","iata":"GI","icao":"IKA","country":"KG_KGZ"}
+{"_id":"GJ_EEU","name":"Eurofly Service","iata":"GJ","icao":"EEU","country":"IT_ITA"}
+{"_id":"GJ_MXC","name":"Compania Mexicargo","iata":"GJ","icao":"MXC","country":"MX_MEX"}
+{"_id":"GL_BSK","name":"Miami Air International","iata":"GL","icao":"BSK","country":"US_USA"}
+{"_id":"GL_GRL","name":"Air Greenland","iata":"GL","icao":"GRL","country":"DK_DNK"}
+{"_id":"GM_GER","name":"German International Air Lines","iata":"GM","icao":"GER","country":"DE_DEU"}
+{"_id":"GM_SVK","name":"Air Slovakia","iata":"GM","icao":"SVK","country":"SK_SVK"}
+{"_id":"GN_AGN","name":"Air Gabon","iata":"GN","icao":"AGN","country":"GA_GAB"}
+{"_id":"GO_KZU","name":"Kuzu Airlines Cargo","iata":"GO","icao":"KZU","country":"TR_TUR"}
+{"_id":"GP_GDR","name":"Gadair European Airlines","iata":"GP","icao":"GDR","country":"ES_ESP"}
+{"_id":"GP_GES","name":"Gestair","iata":"GP","icao":"GES","country":"ES_ESP"}
+{"_id":"GP_PTP","name":"Palau Trans Pacific Airline","iata":"GP","icao":"PTP","country":"PW_PLW"}
+{"_id":"GQ_BSY","name":"Big Sky Airlines","iata":"GQ","icao":"BSY","country":"US_USA"}
+{"_id":"GR_AUR","name":"Aurigny Air Services","iata":"GR","icao":"AUR","country":"GB_GBR"}
+{"_id":"GR_GCO","name":"Gemini Air Cargo","iata":"GR","icao":"GCO","country":"US_USA"}
+{"_id":"GS_GUN","name":"Grant Aviation","iata":"GS","icao":"GUN","country":"US_USA"}
+{"_id":"GS_UPA","name":"Air Foyle","iata":"GS","icao":"UPA","country":"GB_GBR"}
+{"_id":"GT_GBL","name":"GB Airways","iata":"GT","icao":"GBL","country":"GB_GBR"}
+{"_id":"GU_GU1","name":"Gulisano airways","iata":"GU","icao":"GU1","country":"IT_ITA"}
+{"_id":"GV_ARF","name":"Aero Flight","iata":"GV","icao":"ARF","country":"DE_DEU"}
+{"_id":"GW_KIL","name":"Kuban Airlines","iata":"GW","icao":"KIL","country":"RU_RUS"}
+{"_id":"GX_JXX","name":"Jetx Airlines","iata":"GX","icao":"JXX","country":"IS_ISL"}
+{"_id":"GY_GBK","name":"Gabon Airlines","iata":"GY","icao":"GBK","country":"GA_GAB"}
+{"_id":"GY_TMG","name":"Tri-MG Intra Asia Airlines","iata":"GY","icao":"TMG","country":"ID_IDN"}
+{"_id":"GZ_RAR","name":"Air Rarotonga","iata":"GZ","icao":"RAR","country":"CK_COK"}
+{"_id":"H1_HA1","name":"Hankook Air US","iata":"H1","icao":"HA1","country":"US_USA"}
+{"_id":"H2_SKU","name":"Sky Airline","iata":"H2","icao":"SKU","country":"CL_CHL"}
+{"_id":"H3_T33","name":"THREE","iata":"H3","icao":"T33","country":"CN_CHN"}
+{"_id":"H4_IIN","name":"Inter Islands Airlines","iata":"H4","icao":"IIN","country":"CV_CPV"}
+{"_id":"H5_HOA","name":"Hola Airlines","iata":"H5","icao":"HOA","country":"ES_ESP"}
+{"_id":"H5_MVL","name":"Mavial Magadan Airlines","iata":"H5","icao":"MVL","country":"RU_RUS"}
+{"_id":"H5_RSY","name":"I-Fly","iata":"H5","icao":"RSY","country":"RU_RUS"}
+{"_id":"H6_HAG","name":"Hageland Aviation Services","iata":"H6","icao":"HAG","country":"US_USA"}
+{"_id":"H8_KHB","name":"Dalavia","iata":"H8","icao":"KHB","country":"RU_RUS"}
+{"_id":"H9_HAD","name":"Air D'Ayiti","iata":"H9","icao":"HAD","country":"HT_HTI"}
+{"_id":"H9_IZM","name":"Izair","iata":"H9","icao":"IZM","country":"TR_TUR"}
+{"_id":"HA_HAL","name":"Hawaiian Airlines","iata":"HA","icao":"HAL","country":"US_USA"}
+{"_id":"HB_HAR","name":"Harbor Airlines","iata":"HB","icao":"HAR","country":"US_USA"}
+{"_id":"HC_ATI","name":"Aero-Tropics Air Services","iata":"HC","icao":"ATI","country":"AU_AUS"}
+{"_id":"HC_HYM","name":"Himalayan Airlines","iata":"HC","icao":"HYM","country":"NP_NPL"}
+{"_id":"HD_ADO","name":"Hokkaido International Airlines","iata":"HD","icao":"ADO","country":"JP_JPN"}
+{"_id":"HE_LGW","name":"Luftfahrtgesellschaft Walter","iata":"HE","icao":"LGW","country":"DE_DEU"}
+{"_id":"HF_HLF","name":"Hapagfly","iata":"HF","icao":"HLF","country":"DE_DEU"}
+{"_id":"HG_NLY","name":"Niki","iata":"HG","icao":"NLY","country":"AT_AUT"}
+{"_id":"HH_AHO","name":"Air Hamburg (AHO)","iata":"HH","icao":"AHO","country":"DE_DEU"}
+{"_id":"HJ_AXF","name":"Asian Express Airlines","iata":"HJ","icao":"AXF","country":"AU_AUS"}
+{"_id":"HK_FSC","name":"Four Star Aviation / Four Star Cargo","iata":"HK","icao":"FSC","country":"US_USA"}
+{"_id":"HM_SEY","name":"Air Seychelles","iata":"HM","icao":"SEY","country":"SC_SYC"}
+{"_id":"HN_HNX","name":"Hankook Airline","iata":"HN","icao":"HNX","country":"KR_KOR"}
+{"_id":"HN_HVY","name":"Heavylift Cargo Airlines","iata":"HN","icao":"HVY","country":"AU_AUS"}
+{"_id":"HO_DJA","name":"Antinea Airlines","iata":"HO","icao":"DJA","country":"DZ_DZA"}
+{"_id":"HO_DKH","name":"Juneyao Airlines","iata":"HO","icao":"DKH","country":"CN_CHN"}
+{"_id":"HP_AWE","name":"America West Airlines","iata":"HP","icao":"AWE","country":"US_USA"}
+{"_id":"HP_HPA","name":"Pearl Airways","iata":"HP","icao":"HPA","country":"HT_HTI"}
+{"_id":"HQ_HMY","name":"Harmony Airways","iata":"HQ","icao":"HMY","country":"CA_CAN"}
+{"_id":"HR_CUA","name":"China United Airlines","iata":"HR","icao":"CUA","country":"CN_CHN"}
+{"_id":"HR_HHN","name":"Hahn Air","iata":"HR","icao":"HHN","country":"DE_DEU"}
+{"_id":"HT_AHW","name":"Aeromist-Kharkiv","iata":"HT","icao":"AHW","country":"UA_UKR"}
+{"_id":"HT_IMP","name":"Hellenic Imperial Airways","iata":"HT","icao":"IMP","country":"GR_GRC"}
+{"_id":"HU_CHH","name":"Hainan Airlines","iata":"HU","icao":"CHH","country":"CN_CHN"}
+{"_id":"HV_TRA","name":"Transavia Holland","iata":"HV","icao":"TRA","country":"NL_NLD"}
+{"_id":"HW_FHE","name":"Hello","iata":"HW","icao":"FHE","country":"CH_CHE"}
+{"_id":"HW_NWL","name":"North-Wright Airways","iata":"HW","icao":"NWL","country":"CA_CAN"}
+{"_id":"HX_CRK","name":"Hong Kong Airlines","iata":"HX","icao":"CRK","country":"HK_HKG"}
+{"_id":"HY_UZB","name":"Uzbekistan Airways","iata":"HY","icao":"UZB","country":"UZ_UZB"}
+{"_id":"HZ_SOZ","name":"Sat Airlines","iata":"HZ","icao":"SOZ","country":"KZ_KAZ"}
+{"_id":"I2_IBS","name":"Iberia Express","iata":"I2","icao":"IBS","country":"ES_ESP"}
+{"_id":"I4_FWA","name":"Interstate Airline","iata":"I4","icao":"FWA","country":"NL_NLD"}
+{"_id":"I5_IDS","name":"Indonesia Sky","iata":"I5","icao":"IDS","country":"ID_IDN"}
+{"_id":"I6_MXI","name":"MexicanaLink","iata":"I6","icao":"MXI","country":"MX_MEX"}
+{"_id":"I6_SEQ","name":"Sky Eyes","iata":"I6","icao":"SEQ","country":"TH_THA"}
+{"_id":"I7_PMW","name":"Paramount Airways","iata":"I7","icao":"PMW","country":"IN_IND"}
+{"_id":"I9_AEY","name":"Air Italy","iata":"I9","icao":"AEY","country":"IT_ITA"}
+{"_id":"I9_IBU","name":"Indigo","iata":"I9","icao":"IBU","country":"US_USA"}
+{"_id":"IA_IAW","name":"Iraqi Airways","iata":"IA","icao":"IAW","country":"IQ_IRQ"}
+{"_id":"IB_IBE","name":"Iberia Airlines","iata":"IB","icao":"IBE","country":"ES_ESP"}
+{"_id":"IC_IAC","name":"Indian Airlines","iata":"IC","icao":"IAC","country":"IN_IND"}
+{"_id":"ID_ITK","name":"Interlink Airlines","iata":"ID","icao":"ITK","country":"ZA_ZAF"}
+{"_id":"IE_SOL","name":"Solomon Airlines","iata":"IE","icao":"SOL","country":"SB_SLB"}
+{"_id":"IF_ISW","name":"Islas Airways","iata":"IF","icao":"ISW","country":"ES_ESP"}
+{"_id":"IG_ISS","name":"Meridiana","iata":"IG","icao":"ISS","country":"IT_ITA"}
+{"_id":"II_CSQ","name":"IBC Airways","iata":"II","icao":"CSQ","country":"US_USA"}
+{"_id":"II_UWW","name":"LSM International ","iata":"II","icao":"UWW","country":"RU_RUS"}
+{"_id":"IJ_GWL","name":"Great Wall Airlines","iata":"IJ","icao":"GWL","country":"CN_CHN"}
+{"_id":"IJ_IJT","name":"InteliJet Airways","iata":"IJ","icao":"IJT","country":"CO_COL"}
+{"_id":"IK_ITX","name":"Imair Airlines","iata":"IK","icao":"ITX","country":"AZ_AZE"}
+{"_id":"IK_LKN","name":"Lankair","iata":"IK","icao":"LKN","country":"LK_LKA"}
+{"_id":"IL_ILW","name":"Illinois Airways","iata":"IL","icao":"ILW","country":"US_USA"}
+{"_id":"IL_ILY","name":"Fly Illi","iata":"IL","icao":"ILY","country":"US_USA"}
+{"_id":"IM_MNJ","name":"Menajet","iata":"IM","icao":"MNJ","country":"LB_LBN"}
+{"_id":"IN_MAK","name":"MAT Macedonian Airlines","iata":"IN","icao":"MAK","country":"MK_MKD"}
+{"_id":"IO_IAA","name":"Indonesian Airlines","iata":"IO","icao":"IAA","country":"ID_IDN"}
+{"_id":"IP_ISX","name":"Island Spirit","iata":"IP","icao":"ISX","country":"IS_ISL"}
+{"_id":"IP_JOL","name":"Atyrau Air Ways","iata":"IP","icao":"JOL","country":"KZ_KAZ"}
+{"_id":"IQ_AUB","name":"Augsburg Airways","iata":"IQ","icao":"AUB","country":"DE_DEU"}
+{"_id":"IR_IRA","name":"Iran Air","iata":"IR","icao":"IRA","country":"IR_IRN"}
+{"_id":"IT_KFR","name":"Kingfisher Airlines","iata":"IT","icao":"KFR","country":"IN_IND"}
+{"_id":"IV_JET","name":"Wind Jet","iata":"IV","icao":"JET","country":"IT_ITA"}
+{"_id":"IW_AOM","name":"AOM French Airlines","iata":"IW","icao":"AOM","country":"FR_FRA"}
+{"_id":"IW_WON","name":"Wings Air","iata":"IW","icao":"WON","country":"ID_IDN"}
+{"_id":"IX_AXB","name":"Air India Express","iata":"IX","icao":"AXB","country":"IN_IND"}
+{"_id":"IY_IYE","name":"Yemenia","iata":"IY","icao":"IYE","country":"YE_YEM"}
+{"_id":"IZ_AIZ","name":"Arkia Israel Airlines","iata":"IZ","icao":"AIZ","country":"IL_ISR"}
+{"_id":"J2_AHY","name":"Azerbaijan Airlines","iata":"J2","icao":"AHY","country":"AZ_AZE"}
+{"_id":"J3_PLR","name":"Northwestern Air","iata":"J3","icao":"PLR","country":"CA_CAN"}
+{"_id":"J4_BFL","name":"Buffalo Airways","iata":"J4","icao":"BFL","country":"CA_CAN"}
+{"_id":"J6_AOC","name":"AVCOM","iata":"J6","icao":"AOC","country":"RU_RUS"}
+{"_id":"J7_CVC","name":"Centre-Avia","iata":"J7","icao":"CVC","country":"RU_RUS"}
+{"_id":"J7_VJA","name":"ValueJet","iata":"J7","icao":"VJA","country":"US_USA"}
+{"_id":"J8_BVT","name":"Berjaya Air","iata":"J8","icao":"BVT","country":"MY_MYS"}
+{"_id":"J9_GIF","name":"Guinee Airlines","iata":"J9","icao":"GIF","country":"GN_GIN"}
+{"_id":"J9_JZR","name":"Jazeera Airways","iata":"J9","icao":"JZR","country":"KW_KWT"}
+{"_id":"JA_BON","name":"B&H Airlines","iata":"JA","icao":"BON","country":"BA_BIH"}
+{"_id":"JB_JBA","name":"Helijet","iata":"JB","icao":"JBA","country":"CA_CAN"}
+{"_id":"JC_JEX","name":"JAL Express","iata":"JC","icao":"JEX","country":"JP_JPN"}
+{"_id":"JD_JAS","name":"Japan Air System","iata":"JD","icao":"JAS","country":"JP_JPN"}
+{"_id":"JE_MNO","name":"Mango","iata":"JE","icao":"MNO","country":"ZA_ZAF"}
+{"_id":"JF_JAF","name":"Jetairfly","iata":"JF","icao":"JAF","country":"BE_BEL"}
+{"_id":"JF_LAB","name":"L.A.B. Flying Service","iata":"JF","icao":"LAB","country":"US_USA"}
+{"_id":"JH_NES","name":"Nordeste Linhas Aereas Regionais","iata":"JH","icao":"NES","country":"BR_BRA"}
+{"_id":"JI_MDW","name":"Midway Airlines","iata":"JI","icao":"MDW","country":"US_USA"}
+{"_id":"JJ_TAM","name":"TAM Brazilian Airlines","iata":"JJ","icao":"TAM","country":"BR_BRA"}
+{"_id":"JK_JKK","name":"Spanair","iata":"JK","icao":"JKK","country":"ES_ESP"}
+{"_id":"JL_JAL","name":"Japan Airlines Domestic","iata":"JL","icao":"JAL","country":"JP_JPN"}
+{"_id":"JM_AJM","name":"Air Jamaica","iata":"JM","icao":"AJM","country":"JM_JAM"}
+{"_id":"JN_XLA","name":"Excel Airways","iata":"JN","icao":"XLA","country":"GB_GBR"}
+{"_id":"JO_JAZ","name":"JALways","iata":"JO","icao":"JAZ","country":"JP_JPN"}
+{"_id":"JP_ADR","name":"Adria Airways","iata":"JP","icao":"ADR","country":"SI_SVN"}
+{"_id":"JQ_JST","name":"Jetstar Airways","iata":"JQ","icao":"JST","country":"AU_AUS"}
+{"_id":"JR_JOY","name":"Joy Air","iata":"JR","icao":"JOY","country":"CN_CHN"}
+{"_id":"JR_SER","name":"Aero California","iata":"JR","icao":"SER","country":"MX_MEX"}
+{"_id":"JT_LNI","name":"Lion Mentari Airlines","iata":"JT","icao":"LNI","country":"ID_IDN"}
+{"_id":"JU_JAT","name":"Jat Airways","iata":"JU","icao":"JAT","country":"RS_SRB"}
+{"_id":"JV_BLS","name":"Bearskin Lake Air Service","iata":"JV","icao":"BLS","country":"CA_CAN"}
+{"_id":"JW_APW","name":"Arrow Air","iata":"JW","icao":"APW","country":"US_USA"}
+{"_id":"JX_JEC","name":"Jett8 Airlines Cargo","iata":"JX","icao":"JEC","country":"SG_SGP"}
+{"_id":"JX_JSR","name":"Jusur airways","iata":"JX","icao":"JSR","country":"EG_EGY"}
+{"_id":"JY_AXZ","name":"Aereonautica militare","iata":"JY","icao":"AXZ","country":"IT_ITA"}
+{"_id":"JY_TCI","name":"Air Turks and Caicos","iata":"JY","icao":"TCI","country":"TC_TCA"}
+{"_id":"JZ_SKX","name":"Skyways Express","iata":"JZ","icao":"SKX","country":"SE_SWE"}
+{"_id":"K1_KOQ","name":"Kostromskie avialinii","iata":"K1","icao":"KOQ","country":"RU_RUS"}
+{"_id":"K2_ELO","name":"Eurolot","iata":"K2","icao":"ELO","country":"PL_POL"}
+{"_id":"K4_CKS","name":"Kalitta Air","iata":"K4","icao":"CKS","country":"US_USA"}
+{"_id":"K5_ABE","name":"Aban Air","iata":"K5","icao":"ABE","country":"IR_IRN"}
+{"_id":"K5_SQH","name":"SeaPort Airlines","iata":"K5","icao":"SQH","country":"US_USA"}
+{"_id":"K5_WAK","name":"Wings of Alaska","iata":"K5","icao":"WAK","country":"US_USA"}
+{"_id":"K7_KBR","name":"KoralBlue Airlines","iata":"K7","icao":"KBR","country":"EG_EGY"}
+{"_id":"K8_ZAK","name":"Airlink Zambia","iata":"K8","icao":"ZAK","country":"ZM_ZMB"}
+{"_id":"K9_KRI","name":"Krylo Airlines","iata":"K9","icao":"KRI","country":"RU_RUS"}
+{"_id":"KB_DRK","name":"Druk Air","iata":"KB","icao":"DRK","country":"BT_BTN"}
+{"_id":"KC_KZR","name":"Air Astana","iata":"KC","icao":"KZR","country":"KZ_KAZ"}
+{"_id":"KD_KNI","name":"KD Avia","iata":"KD","icao":"KNI","country":"RU_RUS"}
+{"_id":"KF_BLF","name":"Blue1","iata":"KF","icao":"BLF","country":"FI_FIN"}
+{"_id":"KG_BNX","name":"LAI - Linea Aerea IAACA","iata":"KG","icao":"BNX","country":"VE_VEN"}
+{"_id":"KG_RAW","name":"Royal Airways","iata":"KG","icao":"RAW","country":"US_USA"}
+{"_id":"KH_KHK","name":"Kharkiv Airlines","iata":"KH","icao":"KHK","country":"UA_UKR"}
+{"_id":"KI_AAG","name":"Air Atlantique","iata":"KI","icao":"AAG","country":"GB_GBR"}
+{"_id":"KI_DHI","name":"Adam Air","iata":"KI","icao":"DHI","country":"ID_IDN"}
+{"_id":"KJ_LAJ","name":"British Mediterranean Airways","iata":"KJ","icao":"LAJ","country":"GB_GBR"}
+{"_id":"KK_KKK","name":"Atlasjet","iata":"KK","icao":"KKK","country":"TR_TUR"}
+{"_id":"KL_KLM","name":"KLM Royal Dutch Airlines","iata":"KL","icao":"KLM","country":"NL_NLD"}
+{"_id":"KM_AMC","name":"Air Malta","iata":"KM","icao":"AMC","country":"MT_MLT"}
+{"_id":"KO_AER","name":"Alaska Central Express","iata":"KO","icao":"AER","country":"US_USA"}
+{"_id":"KP_KIA","name":"Kiwi International Air Lines","iata":"KP","icao":"KIA","country":"US_USA"}
+{"_id":"KQ_KQA","name":"Kenya Airways","iata":"KQ","icao":"KQA","country":"KE_KEN"}
+{"_id":"KR_CWK","name":"Comores Airlines","iata":"KR","icao":"CWK","country":"KM_COM"}
+{"_id":"KS_PEN","name":"Peninsula Airways","iata":"KS","icao":"PEN","country":"US_USA"}
+{"_id":"KT_CWS","name":"California Western","iata":"KT","icao":"CWS","country":"US_USA"}
+{"_id":"KT_VKJ","name":"VickJet","iata":"KT","icao":"VKJ","country":"FR_FRA"}
+{"_id":"KU_KAC","name":"Kuwait Airways","iata":"KU","icao":"KAC","country":"KW_KWT"}
+{"_id":"KV_MVD","name":"Kavminvodyavia","iata":"KV","icao":"MVD","country":"RU_RUS"}
+{"_id":"KX_CAY","name":"Cayman Airways","iata":"KX","icao":"CAY","country":"KY_CYM"}
+{"_id":"KY_KSY","name":"KSY","iata":"KY","icao":"KSY","country":"GR_GRC"}
+{"_id":"KY_KYV","name":"Kibris T","iata":"KY","icao":"KYV","country":"TR_TUR"}
+{"_id":"KZ_NCA","name":"Nippon Cargo Airlines","iata":"KZ","icao":"NCA","country":"JP_JPN"}
+{"_id":"L1_AL1","name":"All Argentina","iata":"L1","icao":"AL1","country":"AR_ARG"}
+{"_id":"L2_LYC","name":"Lynden Air Cargo","iata":"L2","icao":"LYC","country":"US_USA"}
+{"_id":"L3_JOS","name":"DHL de Guatemala","iata":"L3","icao":"JOS","country":"GT_GTM"}
+{"_id":"L3_LTO","name":"LTU Austria","iata":"L3","icao":"LTO","country":"AT_AUT"}
+{"_id":"L4_LJJ","name":"Luchsh Airlines ","iata":"L4","icao":"LJJ","country":"RU_RUS"}
+{"_id":"L5_LTR","name":"Lufttransport","iata":"L5","icao":"LTR","country":"NO_NOR"}
+{"_id":"L6_MAI","name":"Mauritania Airlines International","iata":"L6","icao":"MAI","country":"MR_MRT"}
+{"_id":"L7_LNP","name":"Linea Aerea SAPSA","iata":"L7","icao":"LNP","country":"CL_CHL"}
+{"_id":"L7_LPN","name":"Laoag International Airlines","iata":"L7","icao":"LPN","country":"PH_PHL"}
+{"_id":"L8_LBL","name":"Line Blue","iata":"L8","icao":"LBL","country":"DE_DEU"}
+{"_id":"L8_LXG","name":"Air Luxor GB","iata":"L8","icao":"LXG","country":"GW_GNB"}
+{"_id":"L9_AL3","name":"All Asia","iata":"L9","icao":"AL3","country":"CN_CHN"}
+{"_id":"L9_TLW","name":"Teamline Air","iata":"L9","icao":"TLW","country":"AT_AUT"}
+{"_id":"LA_LAN","name":"LAN Airlines","iata":"LA","icao":"LAN","country":"CL_CHL"}
+{"_id":"LB_LLB","name":"Lloyd Aereo Boliviano","iata":"LB","icao":"LLB","country":"BO_BOL"}
+{"_id":"LC_VLO","name":"Varig Log","iata":"LC","icao":"VLO","country":"BR_BRA"}
+{"_id":"LD_AHK","name":"Air Hong Kong","iata":"LD","icao":"AHK","country":"HK_HKG"}
+{"_id":"LD_TUY","name":"Linea Turistica Aerotuy","iata":"LD","icao":"TUY","country":"VE_VEN"}
+{"_id":"LF_NDC","name":"FlyNordic","iata":"LF","icao":"NDC","country":"SE_SWE"}
+{"_id":"LG_LGL","name":"Luxair","iata":"LG","icao":"LGL","country":"LU_LUX"}
+{"_id":"LH_DLH","name":"Lufthansa","iata":"LH","icao":"DLH","country":"DE_DEU"}
+{"_id":"LH_GEC","name":"Lufthansa Cargo","iata":"LH","icao":"GEC","country":"DE_DEU"}
+{"_id":"LI_LIA","name":"Leeward Islands Air Transport","iata":"LI","icao":"LIA","country":"AG_ATG"}
+{"_id":"LJ_JNA","name":"Jin Air","iata":"LJ","icao":"JNA","country":"KR_KOR"}
+{"_id":"LJ_SLA","name":"Sierra National Airlines","iata":"LJ","icao":"SLA","country":"SL_SLE"}
+{"_id":"LK_LXR","name":"Air Luxor","iata":"LK","icao":"LXR","country":"PT_PRT"}
+{"_id":"LL_GRO","name":"Allegro","iata":"LL","icao":"GRO","country":"MX_MEX"}
+{"_id":"LM_LAM","name":"Linhas A","iata":"LM","icao":"LAM","country":"MZ_MOZ"}
+{"_id":"LM_LVG","name":"Livingston","iata":"LM","icao":"LVG","country":"IT_ITA"}
+{"_id":"LN_LAA","name":"Libyan Arab Airlines","iata":"LN","icao":"LAA","country":"LY_LBY"}
+{"_id":"LO_LOT","name":"LOT Polish Airlines","iata":"LO","icao":"LOT","country":"PL_POL"}
+{"_id":"LP_LPE","name":"LAN Peru","iata":"LP","icao":"LPE","country":"PE_PER"}
+{"_id":"LQ_LAQ","name":"Lebanese Air Transport","iata":"LQ","icao":"LAQ","country":"LB_LBN"}
+{"_id":"LQ_LMM","name":"LCM AIRLINES","iata":"LQ","icao":"LMM","country":"RU_RUS"}
+{"_id":"LR_LRC","name":"LACSA","iata":"LR","icao":"LRC","country":"CR_CRI"}
+{"_id":"LS_EXS","name":"Jet2.com","iata":"LS","icao":"EXS","country":"GB_GBR"}
+{"_id":"LT_LTU","name":"LTU International","iata":"LT","icao":"LTU","country":"DE_DEU"}
+{"_id":"LU_LXP","name":"LAN Express","iata":"LU","icao":"LXP","country":"CL_CHL"}
+{"_id":"LV_LBC","name":"Albanian Airlines","iata":"LV","icao":"LBC","country":"AL_ALB"}
+{"_id":"LW_NMI","name":"Pacific Wings","iata":"LW","icao":"NMI","country":"US_USA"}
+{"_id":"LX_SWR","name":"Swiss International Air Lines","iata":"LX","icao":"SWR","country":"CH_CHE"}
+{"_id":"LY_ELY","name":"El Al Israel Airlines","iata":"LY","icao":"ELY","country":"IL_ISR"}
+{"_id":"M0_MNG","name":"Aero Mongolia","iata":"M0","icao":"MNG","country":"MN_MNG"}
+{"_id":"M1_M1F","name":"Maryland Air","iata":"M1","icao":"M1F","country":"US_USA"}
+{"_id":"M2_MZS","name":"Mahfooz Aviation","iata":"M2","icao":"MZS","country":"GM_GMB"}
+{"_id":"M3_NFA","name":"North Flying","iata":"M3","icao":"NFA","country":"DK_DNK"}
+{"_id":"M3_SPJ","name":"Air Service","iata":"M3","icao":"SPJ","country":"MK_MKD"}
+{"_id":"M3_TUS","name":"ABSA - Aerolinhas Brasileiras","iata":"M3","icao":"TUS","country":"BR_BRA"}
+{"_id":"M4_1QA","name":"Marysya Airlines","iata":"M4","icao":"1QA","country":"RU_RUS"}
+{"_id":"M4_NOV","name":"Nova Airline","iata":"M4","icao":"NOV","country":"SD_SDN"}
+{"_id":"M5_KEN","name":"Kenmore Air","iata":"M5","icao":"KEN","country":"US_USA"}
+{"_id":"M6_AJT","name":"Amerijet International","iata":"M6","icao":"AJT","country":"US_USA"}
+{"_id":"M7_MAA","name":"MasAir","iata":"M7","icao":"MAA","country":"MX_MEX"}
+{"_id":"M7_MSL","name":"Marsland Aviation","iata":"M7","icao":"MSL","country":"SD_SDN"}
+{"_id":"M7_TBG","name":"Tropical Airways","iata":"M7","icao":"TBG","country":"HT_HTI"}
+{"_id":"M8_TMW","name":"Trans Maldivian Airways","iata":"M8","icao":"TMW","country":"MV_MDV"}
+{"_id":"M9_MSI","name":"Motor Sich","iata":"M9","icao":"MSI","country":"UA_UKR"}
+{"_id":"MA_MAH","name":"Malév","iata":"MA","icao":"MAH","country":"HU_HUN"}
+{"_id":"MB_EXA","name":"Execair Aviation","iata":"MB","icao":"EXA","country":"CA_CAN"}
+{"_id":"MB_MNB","name":"MNG Airlines","iata":"MB","icao":"MNB","country":"TR_TUR"}
+{"_id":"MC_RCH","name":"Air Mobility Command","iata":"MC","icao":"RCH","country":"US_USA"}
+{"_id":"MD_MDG","name":"Air Madagascar","iata":"MD","icao":"MDG","country":"MG_MDG"}
+{"_id":"ME_MEA","name":"Middle East Airlines","iata":"ME","icao":"MEA","country":"LB_LBN"}
+{"_id":"MF_CXA","name":"Xiamen Airlines","iata":"MF","icao":"CXA","country":"CN_CHN"}
+{"_id":"MG_CCP","name":"Champion Air","iata":"MG","icao":"CCP","country":"US_USA"}
+{"_id":"MH_MAS","name":"Malaysia Airlines","iata":"MH","icao":"MAS","country":"MY_MYS"}
+{"_id":"MI_SLK","name":"SilkAir","iata":"MI","icao":"SLK","country":"SG_SGP"}
+{"_id":"MJ_LPR","name":"L","iata":"MJ","icao":"LPR","country":"AR_ARG"}
+{"_id":"MK_MAU","name":"Air Mauritius","iata":"MK","icao":"MAU","country":"MU_MUS"}
+{"_id":"ML_MAV","name":"Maldivo Airlines","iata":"ML","icao":"MAV","country":"MV_MDV"}
+{"_id":"MM_MMZ","name":"EuroAtlantic Airways","iata":"MM","icao":"MMZ","country":"PT_PRT"}
+{"_id":"MM_SAM","name":"SAM Colombia","iata":"MM","icao":"SAM","country":"CO_COL"}
+{"_id":"MN_CAW","name":"Comair","iata":"MN","icao":"CAW","country":"ZA_ZAF"}
+{"_id":"MO_AUH","name":"Abu Dhabi Amiri Flight","iata":"MO","icao":"AUH","country":"AE_ARE"}
+{"_id":"MO_CAV","name":"Calm Air","iata":"MO","icao":"CAV","country":"CA_CAN"}
+{"_id":"MP_MPH","name":"Martinair","iata":"MP","icao":"MPH","country":"NL_NLD"}
+{"_id":"MQ_EGF","name":"American Eagle Airlines","iata":"MQ","icao":"EGF","country":"US_USA"}
+{"_id":"MR_MRT","name":"Air Mauritanie","iata":"MR","icao":"MRT","country":"MR_MRT"}
+{"_id":"MR_OME","name":"Homer Air","iata":"MR","icao":"OME","country":"DE_DEU"}
+{"_id":"MS_MSR","name":"Egyptair","iata":"MS","icao":"MSR","country":"EG_EGY"}
+{"_id":"MT_TCX","name":"Thomas Cook Airlines","iata":"MT","icao":"TCX","country":"GB_GBR"}
+{"_id":"MU_CES","name":"China Eastern Airlines","iata":"MU","icao":"CES","country":"CN_CHN"}
+{"_id":"MV_RML","name":"Armenian International Airways","iata":"MV","icao":"RML","country":"AM_ARM"}
+{"_id":"MW_MYD","name":"Maya Island Air","iata":"MW","icao":"MYD","country":"BZ_BLZ"}
+{"_id":"MX_MXA","name":"Mexicana de Aviaci","iata":"MX","icao":"MXA","country":"MX_MEX"}
+{"_id":"MY_MWA","name":"Midwest Airlines (Egypt)","iata":"MY","icao":"MWA","country":"EG_EGY"}
+{"_id":"MY_MXJ","name":"Maxjet Airways","iata":"MY","icao":"MXJ","country":"US_USA"}
+{"_id":"MZ_MNA","name":"Merpati Nusantara Airlines","iata":"MZ","icao":"MNA","country":"ID_IDN"}
+{"_id":"N2_DAG","name":"Dagestan Airlines","iata":"N2","icao":"DAG","country":"RU_RUS"}
+{"_id":"N2_QNK","name":"Kabo Air","iata":"N2","icao":"QNK","country":"NG_NGA"}
+{"_id":"N3_OMS","name":"Omskavia Airline","iata":"N3","icao":"OMS","country":"RU_RUS"}
+{"_id":"N4_J88","name":"Regionalia México","iata":"N4","icao":"J88","country":"MX_MEX"}
+{"_id":"N4_MTC","name":"Mountain Air Company","iata":"N4","icao":"MTC","country":"SL_SLE"}
+{"_id":"N4_NCN","name":"National Airlines","iata":"N4","icao":"NCN","country":"CL_CHL"}
+{"_id":"N5_KGZ","name":"Kyrgyz Airlines","iata":"N5","icao":"KGZ","country":"KG_KGZ"}
+{"_id":"N5_SGY","name":"Skagway Air Service","iata":"N5","icao":"SGY","country":"US_USA"}
+{"_id":"N6_ACQ","name":"Nuevo Continente","iata":"N6","icao":"ACQ","country":"PE_PER"}
+{"_id":"N6_JEV","name":"Lagun Air","iata":"N6","icao":"JEV","country":"ES_ESP"}
+{"_id":"N7_N77","name":"All Spain","iata":"N7","icao":"N77","country":"ES_ESP"}
+{"_id":"N7_ROK","name":"National Airlines","iata":"N7","icao":"ROK","country":"US_USA"}
+{"_id":"N8_HGK","name":"Fika Salaama Airlines","iata":"N8","icao":"HGK","country":"UG_UGA"}
+{"_id":"N8_NCR","name":"National Air Cargo","iata":"N8","icao":"NCR","country":"US_USA"}
+{"_id":"N9_N99","name":"All Europe","iata":"N9","icao":"N99","country":"GB_GBR"}
+{"_id":"NA_NAL","name":"National Airlines","iata":"NA","icao":"NAL","country":"US_USA"}
+{"_id":"NB_SNB","name":"Sterling Airlines","iata":"NB","icao":"SNB","country":"DK_DNK"}
+{"_id":"NC_NAC","name":"Northern Air Cargo","iata":"NC","icao":"NAC","country":"US_USA"}
+{"_id":"NC_NJS","name":"National Jet Systems","iata":"NC","icao":"NJS","country":"AU_AUS"}
+{"_id":"NE_ESK","name":"SkyEurope","iata":"NE","icao":"ESK","country":"SK_SVK"}
+{"_id":"NF_AVN","name":"Air Vanuatu","iata":"NF","icao":"AVN","country":"VU_VUT"}
+{"_id":"NG_LDA","name":"Lauda Air","iata":"NG","icao":"LDA","country":"AT_AUT"}
+{"_id":"NH_ANA","name":"All Nippon Airways","iata":"NH","icao":"ANA","country":"JP_JPN"}
+{"_id":"NI_PGA","name":"Portugalia","iata":"NI","icao":"PGA","country":"PT_PRT"}
+{"_id":"NJ_NGB","name":"Nordic Global Airlines","iata":"NJ","icao":"NGB","country":"FI_FIN"}
+{"_id":"NK_NKS","name":"Spirit Airlines","iata":"NK","icao":"NKS","country":"US_USA"}
+{"_id":"NL_SAI","name":"Shaheen Air International","iata":"NL","icao":"SAI","country":"PK_PAK"}
+{"_id":"NM_DRD","name":"Air Madrid","iata":"NM","icao":"DRD","country":"ES_ESP"}
+{"_id":"NM_NZM","name":"Mount Cook Airlines","iata":"NM","icao":"NZM","country":"NZ_NZL"}
+{"_id":"NN_MOV","name":"VIM Airlines","iata":"NN","icao":"MOV","country":"RU_RUS"}
+{"_id":"NO_AUS","name":"Aus-Air","iata":"NO","icao":"AUS","country":"AU_AUS"}
+{"_id":"NO_NOS","name":"Neos","iata":"NO","icao":"NOS","country":"IT_ITA"}
+{"_id":"NP_NIA","name":"Nile Air","iata":"NP","icao":"NIA","country":"EG_EGY"}
+{"_id":"NQ_AJX","name":"Air Japan","iata":"NQ","icao":"AJX","country":"JP_JPN"}
+{"_id":"NR_JTO","name":"Jettor Airlines","iata":"NR","icao":"JTO","country":"HK_HKG"}
+{"_id":"NR_PIR","name":"Pamir Airways","iata":"NR","icao":"PIR","country":"AF_AFG"}
+{"_id":"NT_IBB","name":"Binter Canarias","iata":"NT","icao":"IBB","country":"ES_ESP"}
+{"_id":"NU_JTA","name":"Japan Transocean Air","iata":"NU","icao":"JTA","country":"JP_JPN"}
+{"_id":"NV_CRF","name":"Air Central","iata":"NV","icao":"CRF","country":"JP_JPN"}
+{"_id":"NW_NWA","name":"Northwest Airlines","iata":"NW","icao":"NWA","country":"US_USA"}
+{"_id":"NX_AMU","name":"Air Macau","iata":"NX","icao":"AMU","country":"MO_MAC"}
+{"_id":"NY_FXI","name":"Air Iceland","iata":"NY","icao":"FXI","country":"IS_ISL"}
+{"_id":"NZ_ANZ","name":"Air New Zealand","iata":"NZ","icao":"ANZ","country":"NZ_NZL"}
+{"_id":"O1_OAB","name":"Orbit Airlines Azerbaijan","iata":"O1","icao":"OAB","country":"AZ_AZE"}
+{"_id":"O6_ONE","name":"Oceanair","iata":"O6","icao":"ONE","country":"BR_BRA"}
+{"_id":"O7_OZJ","name":"Ozjet Airlines","iata":"O7","icao":"OZJ","country":"AU_AUS"}
+{"_id":"O8_OHK","name":"Oasis Hong Kong Airlines","iata":"O8","icao":"OHK","country":"HK_HKG"}
+{"_id":"OA_OAL","name":"Olympic Airlines","iata":"OA","icao":"OAL","country":"GR_GRC"}
+{"_id":"OB_ASZ","name":"Astrakhan Airlines","iata":"OB","icao":"ASZ","country":"RU_RUS"}
+{"_id":"OD_MXD","name":"Malindo Air","iata":"OD","icao":"MXD","country":"MY_MYS"}
+{"_id":"OD_ULA","name":"Zuliana de Aviacion","iata":"OD","icao":"ULA","country":"VE_VEN"}
+{"_id":"OE_AOT","name":"Asia Overnight Express","iata":"OE","icao":"AOT","country":"PH_PHL"}
+{"_id":"OF_FIF","name":"Air Finland","iata":"OF","icao":"FIF","country":"FI_FIN"}
+{"_id":"OH_COM","name":"Comair","iata":"OH","icao":"COM","country":"US_USA"}
+{"_id":"OI_ORC","name":"Orchid Airlines","iata":"OI","icao":"ORC","country":"AU_AUS"}
+{"_id":"OJ_OLA","name":"Overland Airways","iata":"OJ","icao":"OLA","country":"NG_NGA"}
+{"_id":"OK_CSA","name":"Czech Airlines","iata":"OK","icao":"CSA","country":"CZ_CZE"}
+{"_id":"OL_OLT","name":"Ostfriesische Lufttransport","iata":"OL","icao":"OLT","country":"DE_DEU"}
+{"_id":"OM_MGL","name":"MIAT Mongolian Airlines","iata":"OM","icao":"MGL","country":"MN_MNG"}
+{"_id":"ON_RON","name":"Our Airline","iata":"ON","icao":"RON","country":"NR_NRU"}
+{"_id":"OO_SKW","name":"SkyWest","iata":"OO","icao":"SKW","country":"US_USA"}
+{"_id":"OP_CHK","name":"Chalk's Ocean Airways","iata":"OP","icao":"CHK","country":"US_USA"}
+{"_id":"OQ_CQN","name":"Chongqing Airlines","iata":"OQ","icao":"CQN","country":"CN_CHN"}
+{"_id":"OR_TFL","name":"Arkefly","iata":"OR","icao":"TFL","country":"NL_NLD"}
+{"_id":"OS_AUA","name":"Austrian Airlines","iata":"OS","icao":"AUA","country":"AT_AUT"}
+{"_id":"OT_PEL","name":"Aeropelican Air Services","iata":"OT","icao":"PEL","country":"AU_AUS"}
+{"_id":"OU_CTN","name":"Croatia Airlines","iata":"OU","icao":"CTN","country":"HR_HRV"}
+{"_id":"OV_ELL","name":"Estonian Air","iata":"OV","icao":"ELL","country":"EE_EST"}
+{"_id":"OW_EXK","name":"Executive Airlines","iata":"OW","icao":"EXK","country":"US_USA"}
+{"_id":"OX_OEA","name":"Orient Thai Airlines","iata":"OX","icao":"OEA","country":"TH_THA"}
+{"_id":"OY_OAE","name":"Omni Air International","iata":"OY","icao":"OAE","country":"US_USA"}
+{"_id":"OZ_OZR","name":"Ozark Air Lines","iata":"OZ","icao":"OZR","country":"US_USA"}
+{"_id":"P5_RPB","name":"AeroRep","iata":"P5","icao":"RPB","country":"CO_COL"}
+{"_id":"P7_ESL","name":"Russian Federationn Sky Airlines","iata":"P7","icao":"ESL","country":"RU_RUS"}
+{"_id":"P7_REP","name":"Regional Paraguaya","iata":"P7","icao":"REP","country":"PY_PRY"}
+{"_id":"P8_MKG","name":"Air Mekong","iata":"P8","icao":"MKG","country":"VN_VNM"}
+{"_id":"P8_PTN","name":"Pantanal Linhas Aéreas","iata":"P8","icao":"PTN","country":"BR_BRA"}
+{"_id":"P9_PGP","name":"Perm Airlines","iata":"P9","icao":"PGP","country":"RU_RUS"}
+{"_id":"PA_FCL","name":"Florida Coastal Airlines","iata":"PA","icao":"FCL","country":"US_USA"}
+{"_id":"PA_IPV","name":"Parmiss Airlines (IPV)","iata":"PA","icao":"IPV","country":"IR_IRN"}
+{"_id":"PA_PAA","name":"Pan American World Airways","iata":"PA","icao":"PAA","country":"US_USA"}
+{"_id":"PC_FAJ","name":"Air Fiji","iata":"PC","icao":"FAJ","country":"FJ_FJI"}
+{"_id":"PC_PGT","name":"Pegasus Airlines","iata":"PC","icao":"PGT","country":"TR_TUR"}
+{"_id":"PC_PVV","name":"Continental Airways","iata":"PC","icao":"PVV","country":"RU_RUS"}
+{"_id":"PD_POE","name":"Porter Airlines","iata":"PD","icao":"POE","country":"CA_CAN"}
+{"_id":"PE_AEL","name":"Air Europe","iata":"PE","icao":"AEL","country":"IT_ITA"}
+{"_id":"PF_PNW","name":"Palestinian Airlines","iata":"PF","icao":"PNW","country":"EG_EGY"}
+{"_id":"PG_BKP","name":"Bangkok Airways","iata":"PG","icao":"BKP","country":"TH_THA"}
+{"_id":"PH_PAO","name":"Polynesian Airlines","iata":"PH","icao":"PAO","country":"WS_WSM"}
+{"_id":"PI_PDT","name":"Piedmont Airlines (1948-1989)","iata":"PI","icao":"PDT","country":"US_USA"}
+{"_id":"PI_SUF","name":"Sun Air (Fiji)","iata":"PI","icao":"SUF","country":"FJ_FJI"}
+{"_id":"PJ_SPM","name":"Air Saint Pierre","iata":"PJ","icao":"SPM","country":"FR_FRA"}
+{"_id":"PK_PIA","name":"Pakistan International Airlines","iata":"PK","icao":"PIA","country":"PK_PAK"}
+{"_id":"PL_ASE","name":"Airstars","iata":"PL","icao":"ASE","country":"RU_RUS"}
+{"_id":"PL_PLI","name":"Aeroper","iata":"PL","icao":"PLI","country":"PE_PER"}
+{"_id":"PM_TOS","name":"Tropic Air","iata":"PM","icao":"TOS","country":"BZ_BLZ"}
+{"_id":"PN_CHB","name":"West Air China","iata":"PN","icao":"CHB","country":"CN_CHN"}
+{"_id":"PO_FPT","name":"FlyPortugal","iata":"PO","icao":"FPT","country":"PT_PRT"}
+{"_id":"PO_PAC","name":"Polar Air Cargo","iata":"PO","icao":"PAC","country":"US_USA"}
+{"_id":"PP_AI0","name":"Air Indus","iata":"PP","icao":"AI0","country":"PK_PAK"}
+{"_id":"PQ_LOO","name":"LSM Airlines","iata":"PQ","icao":"LOO","country":"RU_RUS"}
+{"_id":"PR_PAL","name":"Philippine Airlines","iata":"PR","icao":"PAL","country":"PH_PHL"}
+{"_id":"PS_AUI","name":"Ukraine International Airlines","iata":"PS","icao":"AUI","country":"UA_UKR"}
+{"_id":"PS_PSX","name":"Pacific Southwest Airlines","iata":"PS","icao":"PSX","country":"US_USA"}
+{"_id":"PT_CCI","name":"Capital Cargo International Airlines","iata":"PT","icao":"CCI","country":"US_USA"}
+{"_id":"PT_SWN","name":"West Air Sweden","iata":"PT","icao":"SWN","country":"SE_SWE"}
+{"_id":"PU_PUA","name":"PLUNA","iata":"PU","icao":"PUA","country":"UY_URY"}
+{"_id":"PV_PNR","name":"PAN Air","iata":"PV","icao":"PNR","country":"ES_ESP"}
+{"_id":"PW_PRF","name":"Precision Air","iata":"PW","icao":"PRF","country":"TZ_TZA"}
+{"_id":"PX_ANG","name":"Air Niugini","iata":"PX","icao":"ANG","country":"PG_PNG"}
+{"_id":"PY_SLM","name":"Surinam Airways","iata":"PY","icao":"SLM","country":"SR_SUR"}
+{"_id":"PZ_LAP","name":"TAM Mercosur","iata":"PZ","icao":"LAP","country":"PY_PRY"}
+{"_id":"Q3_MBN","name":"Zambian Airways","iata":"Q3","icao":"MBN","country":"ZM_ZMB"}
+{"_id":"Q3_QER","name":"SOCHI AIR CHATER","iata":"Q3","icao":"QER","country":"RU_RUS"}
+{"_id":"Q5_MLA","name":"40-Mile Air","iata":"Q5","icao":"MLA","country":"US_USA"}
+{"_id":"Q6_CDP","name":"Aero Condor Peru","iata":"Q6","icao":"CDP","country":"PE_PER"}
+{"_id":"Q8_PEC","name":"Pacific East Asia Cargo Airlines","iata":"Q8","icao":"PEC","country":"PH_PHL"}
+{"_id":"Q9_AFU","name":"Afrinat International Airlines","iata":"Q9","icao":"AFU","country":"GM_GMB"}
+{"_id":"Q9_NAK","name":"Arik Niger","iata":"Q9","icao":"NAK","country":"NE_NER"}
+{"_id":"QB_GFG","name":"Georgian National Airlines","iata":"QB","icao":"GFG","country":"GE_GEO"}
+{"_id":"QC_CRD","name":"Air Corridor","iata":"QC","icao":"CRD","country":"MZ_MOZ"}
+{"_id":"QD_DOB","name":"Dobrolet","iata":"QD","icao":"DOB","country":"RU_RUS"}
+{"_id":"QD_QCL","name":"Air Class Lineas Aereas","iata":"QD","icao":"QCL","country":"UY_URY"}
+{"_id":"QE_ECC","name":"Crossair Europe","iata":"QE","icao":"ECC","country":"CH_CHE"}
+{"_id":"QF_QFA","name":"Qantas","iata":"QF","icao":"QFA","country":"AU_AUS"}
+{"_id":"QH_FLZ","name":"Air Florida","iata":"QH","icao":"FLZ","country":"US_USA"}
+{"_id":"QH_LYN","name":"Kyrgyzstan","iata":"QH","icao":"LYN","country":"KG_KGZ"}
+{"_id":"QI_CIM","name":"Cimber Air","iata":"QI","icao":"CIM","country":"DK_DNK"}
+{"_id":"QK_JZA","name":"Air Canada Jazz","iata":"QK","icao":"JZA","country":"CA_CAN"}
+{"_id":"QL_RLN","name":"Aero Lanka","iata":"QL","icao":"RLN","country":"LK_LKA"}
+{"_id":"QM_AML","name":"Air Malawi","iata":"QM","icao":"AML","country":"MW_MWI"}
+{"_id":"QN_ARR","name":"Air Armenia","iata":"QN","icao":"ARR","country":"AM_ARM"}
+{"_id":"QO_MPX","name":"Aeromexpress","iata":"QO","icao":"MPX","country":"MX_MEX"}
+{"_id":"QO_OGN","name":"Origin Pacific Airways","iata":"QO","icao":"OGN","country":"NZ_NZL"}
+{"_id":"QQ_ROA","name":"Reno Air","iata":"QQ","icao":"ROA","country":"US_USA"}
+{"_id":"QQ_UTY","name":"Alliance Airlines","iata":"QQ","icao":"UTY","country":"AU_AUS"}
+{"_id":"QR_QTR","name":"Qatar Airways","iata":"QR","icao":"QTR","country":"QA_QAT"}
+{"_id":"QS_QSC","name":"African Safari Airways","iata":"QS","icao":"QSC","country":"KE_KEN"}
+{"_id":"QS_TVS","name":"Travel Service","iata":"QS","icao":"TVS","country":"CZ_CZE"}
+{"_id":"QT_TPA","name":"TAMPA","iata":"QT","icao":"TPA","country":"CO_COL"}
+{"_id":"QU_UGX","name":"East African","iata":"QU","icao":"UGX","country":"UG_UGA"}
+{"_id":"QV_LAO","name":"Lao Airlines","iata":"QV","icao":"LAO","country":"LA_LAO"}
+{"_id":"QW_BWG","name":"Blue Wings","iata":"QW","icao":"BWG","country":"DE_DEU"}
+{"_id":"QX_QXE","name":"Horizon Air","iata":"QX","icao":"QXE","country":"US_USA"}
+{"_id":"QY_BCS","name":"European Air Transport","iata":"QY","icao":"BCS","country":"BE_BEL"}
+{"_id":"QZ_AWQ","name":"Indonesia AirAsia","iata":"QZ","icao":"AWQ","country":"ID_IDN"}
+{"_id":"R0_RPK","name":"Royal Airlines","iata":"R0","icao":"RPK","country":"PK_PAK"}
+{"_id":"R1_RS1","name":"Royal Southern Airlines.","iata":"R1","icao":"RS1","country":"CO_COL"}
+{"_id":"R2_ORB","name":"Orenburg Airlines","iata":"R2","icao":"ORB","country":"RU_RUS"}
+{"_id":"R3_SYL","name":"Aircompany Yakutia","iata":"R3","icao":"SYL","country":"RU_RUS"}
+{"_id":"R5_JAV","name":"Jordan Aviation","iata":"R5","icao":"JAV","country":"JO_JOR"}
+{"_id":"R5_MAC","name":"Malta Air Charter","iata":"R5","icao":"MAC","country":"MT_MLT"}
+{"_id":"R7_OCA","name":"Aserca Airlines","iata":"R7","icao":"OCA","country":"VE_VEN"}
+{"_id":"R8_KGA","name":"Kyrgyzstan Airlines","iata":"R8","icao":"KGA","country":"KG_KGZ"}
+{"_id":"R8_RRJ","name":"AirRussian Federation","iata":"R8","icao":"RRJ","country":"RU_RUS"}
+{"_id":"R9_CAM","name":"Camai Air","iata":"R9","icao":"CAM","country":"US_USA"}
+{"_id":"RA_RNA","name":"Royal Nepal Airlines","iata":"RA","icao":"RNA","country":"NP_NPL"}
+{"_id":"RB_SBK","name":"Air Srpska","iata":"RB","icao":"SBK","country":"BA_BIH"}
+{"_id":"RB_SYR","name":"Syrian Arab Airlines","iata":"RB","icao":"SYR","country":"SY_SYR"}
+{"_id":"RC_FLI","name":"Atlantic Airways","iata":"RC","icao":"FLI","country":"FO_FRO"}
+{"_id":"RD_RYN","name":"Ryan International Airlines","iata":"RD","icao":"RYN","country":"US_USA"}
+{"_id":"RE_REA","name":"Aer Arann","iata":"RE","icao":"REA","country":"IE_IRL"}
+{"_id":"RF_FWL","name":"Florida West International Airways","iata":"RF","icao":"FWL","country":"US_USA"}
+{"_id":"RG_VRN","name":"VRG Linhas Aereas","iata":"RG","icao":"VRN","country":"BR_BRA"}
+{"_id":"RH_RPH","name":"Republic Express Airlines","iata":"RH","icao":"RPH","country":"ID_IDN"}
+{"_id":"RI_MDL","name":"Mandala Airlines","iata":"RI","icao":"MDL","country":"ID_IDN"}
+{"_id":"RJ_RJA","name":"Royal Jordanian","iata":"RJ","icao":"RJA","country":"JO_JOR"}
+{"_id":"RK_RKH","name":"Royal Khmer Airlines","iata":"RK","icao":"RKH","country":"KH_KHM"}
+{"_id":"RL_RFJ","name":"Royal Falcon","iata":"RL","icao":"RFJ","country":"JO_JOR"}
+{"_id":"RM_RNY","name":"Rainbow Air US","iata":"RM","icao":"RNY","country":"US_USA"}
+{"_id":"RN_RAB","name":"Rainbow Air (RAI)","iata":"RN","icao":"RAB","country":"US_USA"}
+{"_id":"RO_ROT","name":"Tarom","iata":"RO","icao":"ROT","country":"RO_ROU"}
+{"_id":"RP_CHQ","name":"Chautauqua Airlines","iata":"RP","icao":"CHQ","country":"US_USA"}
+{"_id":"RQ_KMF","name":"Kam Air","iata":"RQ","icao":"KMF","country":"AF_AFG"}
+{"_id":"RR_RFR","name":"Royal Air Force","iata":"RR","icao":"RFR","country":"GB_GBR"}
+{"_id":"RS_ICT","name":"Intercontinental de Aviaci","iata":"RS","icao":"ICT","country":"CO_COL"}
+{"_id":"RS_MJN","name":"Royal Air Force of Oman","iata":"RS","icao":"MJN","country":"OM_OMN"}
+{"_id":"RU_ABW","name":"AirBridge Cargo","iata":"RU","icao":"ABW","country":"RU_RUS"}
+{"_id":"RU_RUE","name":"Rainbow Air Euro","iata":"RU","icao":"RUE","country":"GB_GBR"}
+{"_id":"RU_SKI","name":"SkyKing Turks and Caicos Airways","iata":"RU","icao":"SKI","country":"TC_TCA"}
+{"_id":"RV_CPN","name":"Caspian Airlines","iata":"RV","icao":"CPN","country":"IR_IRN"}
+{"_id":"RW_RPA","name":"Republic Airlines","iata":"RW","icao":"RPA","country":"US_USA"}
+{"_id":"RX_AEH","name":"Aviaexpress","iata":"RX","icao":"AEH","country":"HU_HUN"}
+{"_id":"RX_RPO","name":"Rainbow Air Polynesia","iata":"RX","icao":"RPO","country":"US_USA"}
+{"_id":"RY_RAY","name":"Rainbow Air Canada","iata":"RY","icao":"RAY","country":"CA_CAN"}
+{"_id":"S0_OKS","name":"Slok Air Gambia","iata":"S0","icao":"OKS","country":"GM_GMB"}
+{"_id":"S0_SAL","name":"Spike Airlines","iata":"S0","icao":"SAL","country":"US_USA"}
+{"_id":"S1_SA1","name":"Serbian Airlines","iata":"S1","icao":"SA1","country":"RS_SRB"}
+{"_id":"S2_RSH","name":"Air Sahara","iata":"S2","icao":"RSH","country":"IN_IND"}
+{"_id":"S3_BBR","name":"Santa Barbara Airlines","iata":"S3","icao":"BBR","country":"VE_VEN"}
+{"_id":"S4_RZO","name":"SATA International","iata":"S4","icao":"RZO","country":"PT_PRT"}
+{"_id":"S5_TCF","name":"Shuttle America","iata":"S5","icao":"TCF","country":"US_USA"}
+{"_id":"S5_TSJ","name":"Trast Aero","iata":"S5","icao":"TSJ","country":"KG_KGZ"}
+{"_id":"S7_SBI","name":"S7 Airlines","iata":"S7","icao":"SBI","country":"RU_RUS"}
+{"_id":"S8_CSU","name":"Chari Aviation Services","iata":"S8","icao":"CSU","country":"TD_TCD"}
+{"_id":"S8_SBD","name":"Snowbird Airlines","iata":"S8","icao":"SBD","country":"FI_FIN"}
+{"_id":"S8_SWW","name":"Shovkoviy Shlyah","iata":"S8","icao":"SWW","country":"UA_UKR"}
+{"_id":"S9_HSA","name":"East African Safari Air","iata":"S9","icao":"HSA","country":"KE_KEN"}
+{"_id":"SA_SAA","name":"South African Airways","iata":"SA","icao":"SAA","country":"ZA_ZAF"}
+{"_id":"SB_ACI","name":"Air Caledonie International","iata":"SB","icao":"ACI","country":"FR_FRA"}
+{"_id":"SC_CDG","name":"Shandong Airlines","iata":"SC","icao":"CDG","country":"CN_CHN"}
+{"_id":"SD_SUD","name":"Sudan Airways","iata":"SD","icao":"SUD","country":"SD_SDN"}
+{"_id":"SE_SEU","name":"XL Airways France","iata":"SE","icao":"SEU","country":"FR_FRA"}
+{"_id":"SF_DTH","name":"Tassili Airlines","iata":"SF","icao":"DTH","country":"DZ_DZA"}
+{"_id":"SG_JGO","name":"JetsGo","iata":"SG","icao":"JGO","country":"CA_CAN"}
+{"_id":"SG_SEJ","name":"Spicejet","iata":"SG","icao":"SEJ","country":"IN_IND"}
+{"_id":"SH_FLY","name":"Fly Me Sweden","iata":"SH","icao":"FLY","country":"SE_SWE"}
+{"_id":"SH_SHA","name":"Sharp Airlines","iata":"SH","icao":"SHA","country":"AU_AUS"}
+{"_id":"SI_SIH","name":"Skynet Airlines","iata":"SI","icao":"SIH","country":"IE_IRL"}
+{"_id":"SJ_SJY","name":"Sriwijaya Air","iata":"SJ","icao":"SJY","country":"ID_IDN"}
+{"_id":"SK_SAS","name":"Scandinavian Airlines System","iata":"SK","icao":"SAS","country":"SE_SWE"}
+{"_id":"SL_RSL","name":"Rio Sul Servi","iata":"SL","icao":"RSL","country":"BR_BRA"}
+{"_id":"SM_MNP","name":"Spirit of Manila Airlines","iata":"SM","icao":"MNP","country":"PH_PHL"}
+{"_id":"SM_SRL","name":"Swedline Express","iata":"SM","icao":"SRL","country":"SE_SWE"}
+{"_id":"SN_DAT","name":"Brussels Airlines","iata":"SN","icao":"DAT","country":"BE_BEL"}
+{"_id":"SO_HKA","name":"Superior Aviation","iata":"SO","icao":"HKA","country":"US_USA"}
+{"_id":"SO_OSL","name":"Sosoliso Airlines","iata":"SO","icao":"OSL","country":"NG_NGA"}
+{"_id":"SO_SLC","name":"Salsa d\\\\'Haiti","iata":"SO","icao":"SLC","country":"HT_HTI"}
+{"_id":"SP_SAT","name":"SATA Air Acores","iata":"SP","icao":"SAT","country":"PT_PRT"}
+{"_id":"SQ_SIA","name":"Singapore Airlines","iata":"SQ","icao":"SIA","country":"SG_SGP"}
+{"_id":"SQ_SQC","name":"Singapore Airlines Cargo","iata":"SQ","icao":"SQC","country":"SG_SGP"}
+{"_id":"SR_SWR","name":"Swissair","iata":"SR","icao":"SWR","country":"CH_CHE"}
+{"_id":"SS_CRL","name":"Corsairfly","iata":"SS","icao":"CRL","country":"FR_FRA"}
+{"_id":"ST_GMI","name":"Germania","iata":"ST","icao":"GMI","country":"DE_DEU"}
+{"_id":"SU_AFL","name":"Aeroflot Russian Federationn Airlines","iata":"SU","icao":"AFL","country":"RU_RUS"}
+{"_id":"SV_SVA","name":"Saudi Arabian Airlines","iata":"SV","icao":"SVA","country":"SA_SAU"}
+{"_id":"SW_NMB","name":"Air Namibia","iata":"SW","icao":"NMB","country":"NA_NAM"}
+{"_id":"SX_SKB","name":"Skybus Airlines","iata":"SX","icao":"SKB","country":"US_USA"}
+{"_id":"SX_SRK","name":"Sky Work Airlines","iata":"SX","icao":"SRK","country":"CH_CHE"}
+{"_id":"SX_STS","name":"Starling Airlines Spain","iata":"SX","icao":"STS","country":"ES_ESP"}
+{"_id":"SY_SCX","name":"Sun Country Airlines","iata":"SY","icao":"SCX","country":"US_USA"}
+{"_id":"T1_TP3","name":"TROPICAL LINHAS AEREAS","iata":"T1","icao":"TP3","country":"BR_BRA"}
+{"_id":"T2_TCG","name":"Thai Air Cargo","iata":"T2","icao":"TCG","country":"TH_THA"}
+{"_id":"T3_EZE","name":"Eastern Airways","iata":"T3","icao":"EZE","country":"GB_GBR"}
+{"_id":"T4_HEJ","name":"Hellas Jet","iata":"T4","icao":"HEJ","country":"GR_GRC"}
+{"_id":"T5_TUA","name":"Turkmenistan Airlines","iata":"T5","icao":"TUA","country":"TM_TKM"}
+{"_id":"T6_TP6","name":"Trans Pas Air","iata":"T6","icao":"TP6","country":"US_USA"}
+{"_id":"T6_TVR","name":"Tavrey Airlines","iata":"T6","icao":"TVR","country":"UA_UKR"}
+{"_id":"T7_TJT","name":"Twin Jet","iata":"T7","icao":"TJT","country":"FR_FRA"}
+{"_id":"T9_TRZ","name":"TransMeridian Airlines","iata":"T9","icao":"TRZ","country":"US_USA"}
+{"_id":"T9_TSX","name":"Thai Star Airlines","iata":"T9","icao":"TSX","country":"TH_THA"}
+{"_id":"TA_TAT","name":"Grupo TACA","iata":"TA","icao":"TAT","country":"CR_CRI"}
+{"_id":"TB_TBZ","name":"TrasBrasil","iata":"TB","icao":"TBZ","country":"BR_BRA"}
+{"_id":"TB_TUB","name":"TUI Airlines Belgium","iata":"TB","icao":"TUB","country":"BE_BEL"}
+{"_id":"TC_ATC","name":"Air Tanzania","iata":"TC","icao":"ATC","country":"TZ_TZA"}
+{"_id":"TD_LUR","name":"Atlantis European Airways","iata":"TD","icao":"LUR","country":"AM_ARM"}
+{"_id":"TD_TLP","name":"Tulip Air","iata":"TD","icao":"TLP","country":"NL_NLD"}
+{"_id":"TE_LIL","name":"FlyLal","iata":"TE","icao":"LIL","country":"LT_LTU"}
+{"_id":"TF_SCW","name":"Malmö Aviation","iata":"TF","icao":"SCW","country":"SE_SWE"}
+{"_id":"TG_THA","name":"Thai Airways International","iata":"TG","icao":"THA","country":"TH_THA"}
+{"_id":"TH_THS","name":"TransBrasil Airlines","iata":"TH","icao":"THS","country":"BR_BRA"}
+{"_id":"TH_TSE","name":"Transmile Air Services","iata":"TH","icao":"TSE","country":"MY_MYS"}
+{"_id":"TI_THI","name":"TransHolding","iata":"TI","icao":"THI","country":"BR_BRA"}
+{"_id":"TI_TOL","name":"Tol-Air Services","iata":"TI","icao":"TOL","country":"US_USA"}
+{"_id":"TJ_TJA","name":"T.J. Air","iata":"TJ","icao":"TJA","country":"US_USA"}
+{"_id":"TK_THY","name":"Turkish Airlines","iata":"TK","icao":"THY","country":"TR_TUR"}
+{"_id":"TL_ANO","name":"Airnorth","iata":"TL","icao":"ANO","country":"AU_AUS"}
+{"_id":"TL_TMA","name":"Trans Mediterranean Airlines","iata":"TL","icao":"TMA","country":"LB_LBN"}
+{"_id":"TN_THT","name":"Air Tahiti Nui","iata":"TN","icao":"THT","country":"FR_FRA"}
+{"_id":"TO_PSD","name":"President Airlines","iata":"TO","icao":"PSD","country":"KH_KHM"}
+{"_id":"TO_TVF","name":"Transavia France","iata":"TO","icao":"TVF","country":"FR_FRA"}
+{"_id":"TP_TAP","name":"TAP Portugal","iata":"TP","icao":"TAP","country":"PT_PRT"}
+{"_id":"TQ_TDM","name":"Tandem Aero","iata":"TQ","icao":"TDM","country":"MD_MDA"}
+{"_id":"TQ_TXW","name":"Texas Wings","iata":"TQ","icao":"TXW","country":"US_USA"}
+{"_id":"TR_TGW","name":"Tiger Airways","iata":"TR","icao":"TGW","country":"SG_SGP"}
+{"_id":"TS_TSC","name":"Air Transat","iata":"TS","icao":"TSC","country":"CA_CAN"}
+{"_id":"TT_KLA","name":"Air Lithuania","iata":"TT","icao":"KLA","country":"LT_LTU"}
+{"_id":"TT_TGW","name":"Tiger Airways Australia","iata":"TT","icao":"TGW","country":"AU_AUS"}
+{"_id":"TU_TAR","name":"Tunisair","iata":"TU","icao":"TAR","country":"TN_TUN"}
+{"_id":"TV_VEX","name":"Virgin Express","iata":"TV","icao":"VEX","country":"BE_BEL"}
+{"_id":"TW_TWA","name":"Trans World Airlines","iata":"TW","icao":"TWA","country":"US_USA"}
+{"_id":"TW_TWB","name":"Tway Airlines","iata":"TW","icao":"TWB","country":"KR_KOR"}
+{"_id":"TX_FWI","name":"Air Caraïbes","iata":"TX","icao":"FWI","country":"FR_FRA"}
+{"_id":"TY_IWD","name":"Iberworld","iata":"TY","icao":"IWD","country":"ES_ESP"}
+{"_id":"TY_TPC","name":"Air Cal","iata":"TY","icao":"TPC","country":"FR_FRA"}
+{"_id":"TZ_SCO","name":"Scoot","iata":"TZ","icao":"SCO","country":"SG_SGP"}
+{"_id":"U1_001","name":"AirOne Polska","iata":"U1","icao":"001","country":"PL_POL"}
+{"_id":"U1_ABI","name":"Aviabus","iata":"U1","icao":"ABI","country":"RU_RUS"}
+{"_id":"U2_EZY","name":"easyJet","iata":"U2","icao":"EZY","country":"GB_GBR"}
+{"_id":"U3_AIA","name":"Avies","iata":"U3","icao":"AIA","country":"EE_EST"}
+{"_id":"U4_PMT","name":"PMTair","iata":"U4","icao":"PMT","country":"KH_KHM"}
+{"_id":"U5_GWY","name":"USA3000 Airlines","iata":"U5","icao":"GWY","country":"US_USA"}
+{"_id":"U6_SVR","name":"Ural Airlines","iata":"U6","icao":"SVR","country":"RU_RUS"}
+{"_id":"U7_JUS","name":"USA Jet Airlines","iata":"U7","icao":"JUS","country":"US_USA"}
+{"_id":"U8_RNV","name":"Armavia","iata":"U8","icao":"RNV","country":"AM_ARM"}
+{"_id":"U9_TAK","name":"Tatarstan Airlines","iata":"U9","icao":"TAK","country":"RU_RUS"}
+{"_id":"UA_UAL","name":"United Airlines","iata":"UA","icao":"UAL","country":"US_USA"}
+{"_id":"UB_UBA","name":"Myanma Airways","iata":"UB","icao":"UBA","country":"MM_MMR"}
+{"_id":"UD_HER","name":"Hex'Air","iata":"UD","icao":"HER","country":"FR_FRA"}
+{"_id":"UE_NAS","name":"Nasair","iata":"UE","icao":"NAS","country":"ER_ERI"}
+{"_id":"UE_TEP","name":"Transeuropean Airlines","iata":"UE","icao":"TEP","country":"RU_RUS"}
+{"_id":"UF_UKM","name":"UM Airlines","iata":"UF","icao":"UKM","country":"UA_UKR"}
+{"_id":"UG_TUI","name":"Tuninter","iata":"UG","icao":"TUI","country":"TN_TUN"}
+{"_id":"UI_ECA","name":"Eurocypria Airlines","iata":"UI","icao":"ECA","country":"CY_CYP"}
+{"_id":"UJ_LMU","name":"AlMasria Universal Airlines","iata":"UJ","icao":"LMU","country":"EG_EGY"}
+{"_id":"UL_ALK","name":"SriLankan Airlines","iata":"UL","icao":"ALK","country":"LK_LKA"}
+{"_id":"UM_AZW","name":"Air Zimbabwe","iata":"UM","icao":"AZW","country":"ZW_ZWE"}
+{"_id":"UN_TSO","name":"Transaero Airlines","iata":"UN","icao":"TSO","country":"RU_RUS"}
+{"_id":"UO_HKE","name":"Hong Kong Express Airways","iata":"UO","icao":"HKE","country":"HK_HKG"}
+{"_id":"UP_BHS","name":"Bahamasair","iata":"UP","icao":"BHS","country":"BS_BHS"}
+{"_id":"UQ_OCM","name":"O'Connor Airlines","iata":"UQ","icao":"OCM","country":"AU_AUS"}
+{"_id":"UQ_SJU","name":"Skyjet Airlines","iata":"UQ","icao":"SJU","country":"UG_UGA"}
+{"_id":"US_USA","name":"US Airways","iata":"US","icao":"USA","country":"US_USA"}
+{"_id":"UT_UTA","name":"UTair Aviation","iata":"UT","icao":"UTA","country":"RU_RUS"}
+{"_id":"UU_REU","name":"Air Austral","iata":"UU","icao":"REU","country":"FR_FRA"}
+{"_id":"UX_AEA","name":"Air Europa","iata":"UX","icao":"AEA","country":"ES_ESP"}
+{"_id":"UY_UYC","name":"Cameroon Airlines","iata":"UY","icao":"UYC","country":"CM_CMR"}
+{"_id":"UZ_BRQ","name":"El-Buraq Air Transport","iata":"UZ","icao":"BRQ","country":"LY_LBY"}
+{"_id":"V0_VCV","name":"Conviasa","iata":"V0","icao":"VCV","country":"VE_VEN"}
+{"_id":"V2_AKT","name":"Karat","iata":"V2","icao":"AKT","country":"RU_RUS"}
+{"_id":"V2_RBY","name":"Vision Airlines (V2)","iata":"V2","icao":"RBY","country":"US_USA"}
+{"_id":"V3_KRP","name":"Carpatair","iata":"V3","icao":"KRP","country":"RO_ROU"}
+{"_id":"V4_REK","name":"Reem Air","iata":"V4","icao":"REK","country":"KG_KGZ"}
+{"_id":"V5_RYL","name":"Royal Aruban Airline","iata":"V5","icao":"RYL","country":"AW_ABW"}
+{"_id":"V5_VLI","name":"Avolar Aerolineas","iata":"V5","icao":"VLI","country":"MX_MEX"}
+{"_id":"V7_SNG","name":"Air Senegal International","iata":"V7","icao":"SNG","country":"SN_SEN"}
+{"_id":"V8_VAS","name":"ATRAN Cargo Airlines","iata":"V8","icao":"VAS","country":"RU_RUS"}
+{"_id":"V9_BTC","name":"BAL Bashkirian Airlines","iata":"V9","icao":"BTC","country":"RU_RUS"}
+{"_id":"V9_HCW","name":"Star1 Airlines","iata":"V9","icao":"HCW","country":"LT_LTU"}
+{"_id":"VA_VAU","name":"V Australia Airlines","iata":"VA","icao":"VAU","country":"AU_AUS"}
+{"_id":"VA_VOZ","name":"Virgin Australia","iata":"VA","icao":"VOZ","country":"AU_AUS"}
+{"_id":"VC_VAL","name":"Voyageur Airways","iata":"VC","icao":"VAL","country":"CA_CAN"}
+{"_id":"VC_VCX","name":"Ocean Airlines","iata":"VC","icao":"VCX","country":"IT_ITA"}
+{"_id":"VD_BBB","name":"SwedJet Airways","iata":"VD","icao":"BBB","country":"SE_SWE"}
+{"_id":"VD_KPA","name":"Kunpeng Airlines","iata":"VD","icao":"KPA","country":"CN_CHN"}
+{"_id":"VE_AVE","name":"Avensa","iata":"VE","icao":"AVE","country":"VE_VEN"}
+{"_id":"VE_EUJ","name":"EUjet","iata":"VE","icao":"EUJ","country":"IE_IRL"}
+{"_id":"VE_VLE","name":"Volare Airlines","iata":"VE","icao":"VLE","country":"IT_ITA"}
+{"_id":"VF_VLU","name":"Valuair","iata":"VF","icao":"VLU","country":"SG_SGP"}
+{"_id":"VG_VLM","name":"VLM Airlines","iata":"VG","icao":"VLM","country":"BE_BEL"}
+{"_id":"VH_VNP","name":"Virgin Pacific","iata":"VH","icao":"VNP","country":"FJ_FJI"}
+{"_id":"VI_VDA","name":"Volga-Dnepr Airlines","iata":"VI","icao":"VDA","country":"RU_RUS"}
+{"_id":"VJ_JTY","name":"Jatayu Airlines","iata":"VJ","icao":"JTY","country":"ID_IDN"}
+{"_id":"VJ_RAC","name":"Royal Air Cambodge","iata":"VJ","icao":"RAC","country":"KH_KHM"}
+{"_id":"VK_VGN","name":"Virgin Nigeria Airways","iata":"VK","icao":"VGN","country":"NG_NGA"}
+{"_id":"VL_VIM","name":"Air VIA","iata":"VL","icao":"VIM","country":"BG_BGR"}
+{"_id":"VM_VOA","name":"Viaggio Air","iata":"VM","icao":"VOA","country":"BG_BGR"}
+{"_id":"VN_HVN","name":"Vietnam Airlines","iata":"VN","icao":"HVN","country":"VN_VNM"}
+{"_id":"VO_TYR","name":"Tyrolean Airways","iata":"VO","icao":"TYR","country":"AT_AUT"}
+{"_id":"VP_VSP","name":"VASP","iata":"VP","icao":"VSP","country":"BR_BRA"}
+{"_id":"VQ_VKH","name":"Viking Hellas","iata":"VQ","icao":"VKH","country":"GR_GRC"}
+{"_id":"VR_TCV","name":"TACV","iata":"VR","icao":"TCV","country":"PT_PRT"}
+{"_id":"VS_VIR","name":"Virgin Atlantic Airways","iata":"VS","icao":"VIR","country":"GB_GBR"}
+{"_id":"VT_VTA","name":"Air Tahiti","iata":"VT","icao":"VTA","country":"PF_PYF"}
+{"_id":"VV_AEW","name":"Aerosvit Airlines","iata":"VV","icao":"AEW","country":"UA_UKR"}
+{"_id":"VW_TAO","name":"Aeromar","iata":"VW","icao":"TAO","country":"MX_MEX"}
+{"_id":"VX_VRD","name":"Virgin America","iata":"VX","icao":"VRD","country":"US_USA"}
+{"_id":"VY_FOS","name":"Formosa Airlines","iata":"VY","icao":"FOS","country":"TW_TWN"}
+{"_id":"VY_VLG","name":"Vueling Airlines","iata":"VY","icao":"VLG","country":"ES_ESP"}
+{"_id":"VZ_MYT","name":"MyTravel Airways","iata":"VZ","icao":"MYT","country":"GB_GBR"}
+{"_id":"W1_WE1","name":"World Experience Airline","iata":"W1","icao":"WE1","country":"CA_CAN"}
+{"_id":"W2_CWA","name":"Canadian Western Airlines","iata":"W2","icao":"CWA","country":"CA_CAN"}
+{"_id":"W3_ARA","name":"Arik Air","iata":"W3","icao":"ARA","country":"NG_NGA"}
+{"_id":"W4_BES","name":"Aero Services Executive","iata":"W4","icao":"BES","country":"FR_FRA"}
+{"_id":"W4_WER","name":"AeroWorld ","iata":"W4","icao":"WER","country":"RU_RUS"}
+{"_id":"W5_IRM","name":"Mahan Air","iata":"W5","icao":"IRM","country":"IR_IRN"}
+{"_id":"W6_WZZ","name":"Wizz Air","iata":"W6","icao":"WZZ","country":"HU_HUN"}
+{"_id":"W8_CJT","name":"Cargojet Airways","iata":"W8","icao":"CJT","country":"CA_CAN"}
+{"_id":"W9_AAB","name":"Abelag Aviation","iata":"W9","icao":"AAB","country":"BE_BEL"}
+{"_id":"W9_JAB","name":"Air Bagan","iata":"W9","icao":"JAB","country":"MM_MMR"}
+{"_id":"W9_SGR","name":"Eastwind Airlines","iata":"W9","icao":"SGR","country":"US_USA"}
+{"_id":"WA_KLC","name":"KLM Cityhopper","iata":"WA","icao":"KLC","country":"NL_NLD"}
+{"_id":"WA_WAL","name":"Western Airlines","iata":"WA","icao":"WAL","country":"US_USA"}
+{"_id":"WB_RWD","name":"Rwandair Express","iata":"WB","icao":"RWD","country":"RW_RWA"}
+{"_id":"WC_ISV","name":"Islena De Inversiones","iata":"WC","icao":"ISV","country":"HN_HND"}
+{"_id":"WD_AAN","name":"Amsterdam Airlines","iata":"WD","icao":"AAN","country":"NL_NLD"}
+{"_id":"WD_DSR","name":"DAS Air Cargo","iata":"WD","icao":"DSR","country":"UG_UGA"}
+{"_id":"WE_CWC","name":"Centurion Air Cargo","iata":"WE","icao":"CWC","country":"US_USA"}
+{"_id":"WF_WIF","name":"Widerøe","iata":"WF","icao":"WIF","country":"NO_NOR"}
+{"_id":"WG_SWG","name":"Sunwing Airlines","iata":"WG","icao":"SWG","country":"CA_CAN"}
+{"_id":"WG_WGC","name":"Worldways","iata":"WG","icao":"WGC","country":"CA_CAN"}
+{"_id":"WH_CNW","name":"China Northwest Airlines","iata":"WH","icao":"CNW","country":"CN_CHN"}
+{"_id":"WJ_WEB","name":"WebJet Linhas A","iata":"WJ","icao":"WEB","country":"BR_BRA"}
+{"_id":"WK_AFB","name":"American Falcon","iata":"WK","icao":"AFB","country":"AR_ARG"}
+{"_id":"WK_EDW","name":"Edelweiss Air","iata":"WK","icao":"EDW","country":"CH_CHE"}
+{"_id":"WL_FQR","name":"CheapFlyingInternational","iata":"WL","icao":"FQR","country":"FR_FRA"}
+{"_id":"WN_SWA","name":"Southwest Airlines","iata":"WN","icao":"SWA","country":"US_USA"}
+{"_id":"WO_WOA","name":"World Airways","iata":"WO","icao":"WOA","country":"US_USA"}
+{"_id":"WP_MKU","name":"Island Air (WP)","iata":"WP","icao":"MKU","country":"US_USA"}
+{"_id":"WQ_PQW","name":"PanAm World Airways","iata":"WQ","icao":"PQW","country":"US_USA"}
+{"_id":"WR_HRH","name":"Royal Tongan Airlines","iata":"WR","icao":"HRH","country":"TO_TON"}
+{"_id":"WS_WJA","name":"WestJet","iata":"WS","icao":"WJA","country":"CA_CAN"}
+{"_id":"WU_WAU","name":"Wizz Air Ukraine","iata":"WU","icao":"WAU","country":"UA_UKR"}
+{"_id":"WV_SWV","name":"Swe Fly","iata":"WV","icao":"SWV","country":"SE_SWE"}
+{"_id":"WW_BMI","name":"bmibaby","iata":"WW","icao":"BMI","country":"GB_GBR"}
+{"_id":"WX_BCY","name":"CityJet","iata":"WX","icao":"BCY","country":"IE_IRL"}
+{"_id":"WY_OMA","name":"Oman Air","iata":"WY","icao":"OMA","country":"OM_OMN"}
+{"_id":"WZ_RWZ","name":"Red Wings","iata":"WZ","icao":"RWZ","country":"RU_RUS"}
+{"_id":"X3_HLX","name":"TUIfly","iata":"X3","icao":"HLX","country":"DE_DEU"}
+{"_id":"X7_CHF","name":"Chitaavia","iata":"X7","icao":"CHF","country":"RU_RUS"}
+{"_id":"XA_XAU","name":"XAIR USA","iata":"XA","icao":"XAU","country":"US_USA"}
+{"_id":"XB_NXB","name":"NEXT Brasil","iata":"XB","icao":"NXB","country":"BR_BRA"}
+{"_id":"XE_BTA","name":"ExpressJet","iata":"XE","icao":"BTA","country":"US_USA"}
+{"_id":"XF_VLK","name":"Vladivostok Air","iata":"XF","icao":"VLK","country":"RU_RUS"}
+{"_id":"XG_CLI","name":"Calima Aviacion","iata":"XG","icao":"CLI","country":"ES_ESP"}
+{"_id":"XJ_MES","name":"Mesaba Airlines","iata":"XJ","icao":"MES","country":"US_USA"}
+{"_id":"XK_CCM","name":"Corse-Mediterranee","iata":"XK","icao":"CCM","country":"FR_FRA"}
+{"_id":"XL_LNE","name":"Aerolane","iata":"XL","icao":"LNE","country":"EC_ECU"}
+{"_id":"XM_SMX","name":"Alitalia Express","iata":"XM","icao":"SMX","country":"IT_ITA"}
+{"_id":"XO_CXH","name":"China Xinhua Airlines","iata":"XO","icao":"CXH","country":"CN_CHN"}
+{"_id":"XO_LTE","name":"LTE International Airways","iata":"XO","icao":"LTE","country":"ES_ESP"}
+{"_id":"XP_CXP","name":"Xtra Airways","iata":"XP","icao":"CXP","country":"US_USA"}
+{"_id":"XP_XPT","name":"XPTO","iata":"XP","icao":"XPT","country":"PT_PRT"}
+{"_id":"XP_ZYZ","name":"Caribbean Wings","iata":"XP","icao":"ZYZ","country":"TC_TCA"}
+{"_id":"XQ_SXS","name":"SunExpress","iata":"XQ","icao":"SXS","country":"TR_TUR"}
+{"_id":"XS_SIT","name":"SITA","iata":"XS","icao":"SIT","country":"BE_BEL"}
+{"_id":"XS_TXP","name":"Texas Spirit","iata":"XS","icao":"TXP","country":"US_USA"}
+{"_id":"XT_AXL","name":"Air Exel","iata":"XT","icao":"AXL","country":"NL_NLD"}
+{"_id":"XW_SXR","name":"Sky Express","iata":"XW","icao":"SXR","country":"RU_RUS"}
+{"_id":"XX_GFY","name":"Greenfly","iata":"XX","icao":"GFY","country":"ES_ESP"}
+{"_id":"XY_KNE","name":"Nas Air","iata":"XY","icao":"KNE","country":"SA_SAU"}
+{"_id":"Y4_VOI","name":"Volaris","iata":"Y4","icao":"VOI","country":"MX_MEX"}
+{"_id":"Y5_AWA","name":"Asia Wings","iata":"Y5","icao":"AWA","country":"KZ_KAZ"}
+{"_id":"Y5_PCE","name":"Pace Airlines","iata":"Y5","icao":"PCE","country":"US_USA"}
+{"_id":"Y8_MRS","name":"Marusya Airways","iata":"Y8","icao":"MRS","country":"RU_RUS"}
+{"_id":"Y8_YZR","name":"Yangtze River Express","iata":"Y8","icao":"YZR","country":"CN_CHN"}
+{"_id":"Y9_IRK","name":"Kish Air","iata":"Y9","icao":"IRK","country":"IR_IRN"}
+{"_id":"YC_YCC","name":"Ciel Canadien","iata":"YC","icao":"YCC","country":"CA_CAN"}
+{"_id":"YE_YEL","name":"Yellowtail","iata":"YE","icao":"YEL","country":"US_USA"}
+{"_id":"YL_LLM","name":"Yamal Airlines","iata":"YL","icao":"LLM","country":"RU_RUS"}
+{"_id":"YM_MGX","name":"Montenegro Airlines","iata":"YM","icao":"MGX","country":"ME_MNE"}
+{"_id":"YO_TYS","name":"TransHolding System","iata":"YO","icao":"TYS","country":"BR_BRA"}
+{"_id":"YP_AEF","name":"Aero Lloyd (YP)","iata":"YP","icao":"AEF","country":"DE_DEU"}
+{"_id":"YS_RAE","name":"Régional","iata":"YS","icao":"RAE","country":"FR_FRA"}
+{"_id":"YT_TGA","name":"Air Togo","iata":"YT","icao":"TGA","country":"TG_TGO"}
+{"_id":"YV_ASH","name":"Mesa Airlines","iata":"YV","icao":"ASH","country":"US_USA"}
+{"_id":"YW_ANE","name":"Air Nostrum","iata":"YW","icao":"ANE","country":"ES_ESP"}
+{"_id":"YX_MEP","name":"Midwest Airlines","iata":"YX","icao":"MEP","country":"US_USA"}
+{"_id":"YY_VWA","name":"Virginwings","iata":"YY","icao":"VWA","country":"DE_DEU"}
+{"_id":"YZ_YZZ","name":"LSM AIRLINES ","iata":"YZ","icao":"YZZ","country":"RU_RUS"}
+{"_id":"Z3_SMJ","name":"Avient Aviation","iata":"Z3","icao":"SMJ","country":"ZW_ZWE"}
+{"_id":"Z4_OOM","name":"Zoom Airlines","iata":"Z4","icao":"OOM","country":"CA_CAN"}
+{"_id":"Z6_ZTT","name":"ZABAIKAL AIRLINES","iata":"Z6","icao":"ZTT","country":"RU_RUS"}
+{"_id":"Z7_ADK","name":"ADC Airlines","iata":"Z7","icao":"ADK","country":"NG_NGA"}
+{"_id":"Z8_AZN","name":"Amaszonas","iata":"Z8","icao":"AZN","country":"BO_BOL"}
+{"_id":"ZA_CYD","name":"Access Air","iata":"ZA","icao":"CYD","country":"US_USA"}
+{"_id":"ZA_SUW","name":"Interavia Airlines","iata":"ZA","icao":"SUW","country":"RU_RUS"}
+{"_id":"ZB_BUB","name":"Air Bourbon","iata":"ZB","icao":"BUB","country":"RE_REU"}
+{"_id":"ZB_MON","name":"Monarch Airlines","iata":"ZB","icao":"MON","country":"GB_GBR"}
+{"_id":"ZC_KGO","name":"Korongo Airlines","iata":"ZC","icao":"KGO","country":"CD_COD"}
+{"_id":"ZE_AZE","name":"Arcus-Air Logistic","iata":"ZE","icao":"AZE","country":"DE_DEU"}
+{"_id":"ZE_ESR","name":"Eastar Jet","iata":"ZE","icao":"ESR","country":"KR_KOR"}
+{"_id":"ZE_LCD","name":"Lineas Aereas Azteca","iata":"ZE","icao":"LCD","country":"MX_MEX"}
+{"_id":"ZG_VVM","name":"Viva Macau","iata":"ZG","icao":"VVM","country":"MO_MAC"}
+{"_id":"ZH_CSZ","name":"Shenzhen Airlines","iata":"ZH","icao":"CSZ","country":"CN_CHN"}
+{"_id":"ZI_AAF","name":"Aigle Azur","iata":"ZI","icao":"AAF","country":"FR_FRA"}
+{"_id":"ZK_GLA","name":"Great Lakes Airlines","iata":"ZK","icao":"GLA","country":"US_USA"}
+{"_id":"ZL_RXA","name":"Regional Express","iata":"ZL","icao":"RXA","country":"AU_AUS"}
+{"_id":"ZM_IWA","name":"Apache Air","iata":"ZM","icao":"IWA","country":"US_USA"}
+{"_id":"ZN_ZNA","name":"Zenith International Airline","iata":"ZN","icao":"ZNA","country":"TH_THA"}
+{"_id":"ZP_AZQ","name":"Silk Way Airlines","iata":"ZP","icao":"AZQ","country":"AZ_AZE"}
+{"_id":"ZP_ZZZ","name":"Zabaykalskii Airlines","iata":"ZP","icao":"ZZZ","country":"RU_RUS"}
+{"_id":"ZQ_LOC","name":"Locair","iata":"ZQ","icao":"LOC","country":"US_USA"}
+{"_id":"ZS_SMY","name":"Sama Airlines","iata":"ZS","icao":"SMY","country":"SA_SAU"}
+{"_id":"ZT_AWC","name":"Titan Airways","iata":"ZT","icao":"AWC","country":"GB_GBR"}
+{"_id":"ZU_HCY","name":"Helios Airways","iata":"ZU","icao":"HCY","country":"CY_CYP"}
+{"_id":"ZV_AMW","name":"Air Midwest","iata":"ZV","icao":"AMW","country":"US_USA"}
+{"_id":"ZW_AWI","name":"Air Wisconsin","iata":"ZW","icao":"AWI","country":"US_USA"}
+{"_id":"ZX_GGN","name":"Air Georgian","iata":"ZX","icao":"GGN","country":"CA_CAN"}
+{"_id":"ZX_ZXY","name":"Japan Regio","iata":"ZX","icao":"ZXY","country":"JP_JPN"}
+{"_id":"ZY_ADE","name":"Ada Air","iata":"ZY","icao":"ADE","country":"AL_ALB"}

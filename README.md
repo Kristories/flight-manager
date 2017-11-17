@@ -1,5 +1,5 @@
 # flight-manager [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url] 
->  
+>  Browse all the world's airports & airlines
  
 ## Installation 
  

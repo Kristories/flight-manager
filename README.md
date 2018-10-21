@@ -26,7 +26,7 @@ fm.getAirlineByIcao('GIA', function(res) {
 ``` 
 ## License 
  
-MIT © [Wahyu Kristianto](http://wahyukristianto.com) 
+MIT © Wahyu Kristianto
  
  
 [npm-image]: https://badge.fury.io/js/flight-manager.svg 
